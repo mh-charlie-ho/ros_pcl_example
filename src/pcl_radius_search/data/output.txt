@@ -1,0 +1,2792 @@
+Start
+/innovusion_no_ground
+data width: 31970
+kdtree radius search
+total points: 31970
+radiussearch_octreeTimer:Elapsed time: 541.146 ms.
+radiussearch_kdtreeTimer:Elapsed time: 280.444 ms.
+31969
+radiussearch_gpu_octreeTimer:Elapsed time: 8.05 ms.
+data width: 31652
+kdtree radius search
+total points: 31652
+radiussearch_octreeTimer:Elapsed time: 539.836 ms.
+radiussearch_kdtreeTimer:Elapsed time: 279.388 ms.
+31651
+radiussearch_gpu_octreeTimer:Elapsed time: 4.637 ms.
+data width: 31640
+kdtree radius search
+total points: 31640
+radiussearch_octreeTimer:Elapsed time: 536.474 ms.
+radiussearch_kdtreeTimer:Elapsed time: 282.441 ms.
+31639
+radiussearch_gpu_octreeTimer:Elapsed time: 4.867 ms.
+data width: 31892
+kdtree radius search
+total points: 31892
+radiussearch_octreeTimer:Elapsed time: 544.883 ms.
+radiussearch_kdtreeTimer:Elapsed time: 283.009 ms.
+31891
+radiussearch_gpu_octreeTimer:Elapsed time: 5.219 ms.
+data width: 31778
+kdtree radius search
+total points: 31778
+radiussearch_octreeTimer:Elapsed time: 539.412 ms.
+radiussearch_kdtreeTimer:Elapsed time: 277.562 ms.
+31777
+radiussearch_gpu_octreeTimer:Elapsed time: 4.698 ms.
+data width: 31793
+kdtree radius search
+total points: 31793
+radiussearch_octreeTimer:Elapsed time: 538.516 ms.
+radiussearch_kdtreeTimer:Elapsed time: 277.213 ms.
+31792
+radiussearch_gpu_octreeTimer:Elapsed time: 5.445 ms.
+data width: 31907
+kdtree radius search
+total points: 31907
+radiussearch_octreeTimer:Elapsed time: 527.406 ms.
+radiussearch_kdtreeTimer:Elapsed time: 268.491 ms.
+31906
+radiussearch_gpu_octreeTimer:Elapsed time: 4.727 ms.
+data width: 32446
+kdtree radius search
+total points: 32446
+radiussearch_octreeTimer:Elapsed time: 512.421 ms.
+radiussearch_kdtreeTimer:Elapsed time: 237.133 ms.
+32445
+radiussearch_gpu_octreeTimer:Elapsed time: 5.394 ms.
+data width: 32276
+kdtree radius search
+total points: 32276
+radiussearch_octreeTimer:Elapsed time: 505.826 ms.
+radiussearch_kdtreeTimer:Elapsed time: 221.603 ms.
+32275
+radiussearch_gpu_octreeTimer:Elapsed time: 4.598 ms.
+data width: 32512
+kdtree radius search
+total points: 32512
+radiussearch_octreeTimer:Elapsed time: 528.291 ms.
+radiussearch_kdtreeTimer:Elapsed time: 231.583 ms.
+32511
+radiussearch_gpu_octreeTimer:Elapsed time: 4.843 ms.
+data width: 32438
+kdtree radius search
+total points: 32438
+radiussearch_octreeTimer:Elapsed time: 530.805 ms.
+radiussearch_kdtreeTimer:Elapsed time: 237.782 ms.
+32437
+radiussearch_gpu_octreeTimer:Elapsed time: 4.678 ms.
+data width: 32379
+kdtree radius search
+total points: 32379
+radiussearch_octreeTimer:Elapsed time: 555.505 ms.
+radiussearch_kdtreeTimer:Elapsed time: 254.175 ms.
+32378
+radiussearch_gpu_octreeTimer:Elapsed time: 4.963 ms.
+data width: 31810
+kdtree radius search
+total points: 31810
+radiussearch_octreeTimer:Elapsed time: 617.837 ms.
+radiussearch_kdtreeTimer:Elapsed time: 291.28 ms.
+31809
+radiussearch_gpu_octreeTimer:Elapsed time: 5.187 ms.
+data width: 33804
+kdtree radius search
+total points: 33804
+radiussearch_octreeTimer:Elapsed time: 810.586 ms.
+radiussearch_kdtreeTimer:Elapsed time: 404.863 ms.
+33803
+radiussearch_gpu_octreeTimer:Elapsed time: 6.058 ms.
+data width: 39225
+kdtree radius search
+total points: 39225
+radiussearch_octreeTimer:Elapsed time: 1293.46 ms.
+radiussearch_kdtreeTimer:Elapsed time: 704.201 ms.
+39224
+radiussearch_gpu_octreeTimer:Elapsed time: 5.731 ms.
+data width: 33737
+kdtree radius search
+total points: 33737
+radiussearch_octreeTimer:Elapsed time: 629.321 ms.
+radiussearch_kdtreeTimer:Elapsed time: 324.299 ms.
+33736
+radiussearch_gpu_octreeTimer:Elapsed time: 3.663 ms.
+data width: 31996
+kdtree radius search
+total points: 31996
+radiussearch_octreeTimer:Elapsed time: 537.772 ms.
+radiussearch_kdtreeTimer:Elapsed time: 220.674 ms.
+31995
+radiussearch_gpu_octreeTimer:Elapsed time: 5.2 ms.
+data width: 34561
+kdtree radius search
+total points: 34561
+radiussearch_octreeTimer:Elapsed time: 763.435 ms.
+radiussearch_kdtreeTimer:Elapsed time: 315.775 ms.
+34560
+radiussearch_gpu_octreeTimer:Elapsed time: 4.707 ms.
+data width: 32995
+kdtree radius search
+total points: 32995
+radiussearch_octreeTimer:Elapsed time: 706.362 ms.
+radiussearch_kdtreeTimer:Elapsed time: 288.208 ms.
+32994
+radiussearch_gpu_octreeTimer:Elapsed time: 4.757 ms.
+data width: 35959
+kdtree radius search
+total points: 35959
+radiussearch_octreeTimer:Elapsed time: 966.023 ms.
+radiussearch_kdtreeTimer:Elapsed time: 423.627 ms.
+35958
+radiussearch_gpu_octreeTimer:Elapsed time: 8.332 ms.
+data width: 36039
+kdtree radius search
+total points: 36039
+radiussearch_octreeTimer:Elapsed time: 1481.19 ms.
+radiussearch_kdtreeTimer:Elapsed time: 725.099 ms.
+36038
+radiussearch_gpu_octreeTimer:Elapsed time: 6.242 ms.
+data width: 38397
+kdtree radius search
+total points: 38397
+radiussearch_octreeTimer:Elapsed time: 1918.66 ms.
+radiussearch_kdtreeTimer:Elapsed time: 999.299 ms.
+38396
+radiussearch_gpu_octreeTimer:Elapsed time: 9.166 ms.
+data width: 21596
+kdtree radius search
+total points: 21596
+radiussearch_octreeTimer:Elapsed time: 204.655 ms.
+radiussearch_kdtreeTimer:Elapsed time: 81.18 ms.
+21595
+radiussearch_gpu_octreeTimer:Elapsed time: 2.521 ms.
+data width: 22510
+kdtree radius search
+total points: 22510
+radiussearch_octreeTimer:Elapsed time: 218.62 ms.
+radiussearch_kdtreeTimer:Elapsed time: 86.235 ms.
+22509
+radiussearch_gpu_octreeTimer:Elapsed time: 2.44 ms.
+data width: 23539
+kdtree radius search
+total points: 23539
+radiussearch_octreeTimer:Elapsed time: 227.069 ms.
+radiussearch_kdtreeTimer:Elapsed time: 90.204 ms.
+23538
+radiussearch_gpu_octreeTimer:Elapsed time: 2.625 ms.
+data width: 23544
+kdtree radius search
+total points: 23544
+radiussearch_octreeTimer:Elapsed time: 225.294 ms.
+radiussearch_kdtreeTimer:Elapsed time: 88.744 ms.
+23543
+radiussearch_gpu_octreeTimer:Elapsed time: 2.782 ms.
+data width: 23333
+kdtree radius search
+total points: 23333
+radiussearch_octreeTimer:Elapsed time: 194.083 ms.
+radiussearch_kdtreeTimer:Elapsed time: 77.63 ms.
+23332
+radiussearch_gpu_octreeTimer:Elapsed time: 2.33 ms.
+data width: 23423
+kdtree radius search
+total points: 23423
+radiussearch_octreeTimer:Elapsed time: 191.879 ms.
+radiussearch_kdtreeTimer:Elapsed time: 78.078 ms.
+23422
+radiussearch_gpu_octreeTimer:Elapsed time: 2.382 ms.
+data width: 24099
+kdtree radius search
+total points: 24099
+radiussearch_octreeTimer:Elapsed time: 208.712 ms.
+radiussearch_kdtreeTimer:Elapsed time: 86.027 ms.
+24098
+radiussearch_gpu_octreeTimer:Elapsed time: 2.748 ms.
+data width: 25493
+kdtree radius search
+total points: 25493
+radiussearch_octreeTimer:Elapsed time: 233.698 ms.
+radiussearch_kdtreeTimer:Elapsed time: 96.666 ms.
+25492
+radiussearch_gpu_octreeTimer:Elapsed time: 3.054 ms.
+data width: 26034
+kdtree radius search
+total points: 26034
+radiussearch_octreeTimer:Elapsed time: 260.319 ms.
+radiussearch_kdtreeTimer:Elapsed time: 105.116 ms.
+26033
+radiussearch_gpu_octreeTimer:Elapsed time: 2.962 ms.
+data width: 26346
+kdtree radius search
+total points: 26346
+radiussearch_octreeTimer:Elapsed time: 243.59 ms.
+radiussearch_kdtreeTimer:Elapsed time: 97.663 ms.
+26345
+radiussearch_gpu_octreeTimer:Elapsed time: 4.176 ms.
+data width: 25845
+kdtree radius search
+total points: 25845
+radiussearch_octreeTimer:Elapsed time: 240.546 ms.
+radiussearch_kdtreeTimer:Elapsed time: 92.981 ms.
+25844
+radiussearch_gpu_octreeTimer:Elapsed time: 2.802 ms.
+data width: 26083
+kdtree radius search
+total points: 26083
+radiussearch_octreeTimer:Elapsed time: 234.525 ms.
+radiussearch_kdtreeTimer:Elapsed time: 90.677 ms.
+26082
+radiussearch_gpu_octreeTimer:Elapsed time: 2.983 ms.
+data width: 25367
+kdtree radius search
+total points: 25367
+radiussearch_octreeTimer:Elapsed time: 220.179 ms.
+radiussearch_kdtreeTimer:Elapsed time: 84.822 ms.
+25366
+radiussearch_gpu_octreeTimer:Elapsed time: 2.8 ms.
+data width: 24663
+kdtree radius search
+total points: 24663
+radiussearch_octreeTimer:Elapsed time: 218.595 ms.
+radiussearch_kdtreeTimer:Elapsed time: 82.984 ms.
+24662
+radiussearch_gpu_octreeTimer:Elapsed time: 2.559 ms.
+data width: 24482
+kdtree radius search
+total points: 24482
+radiussearch_octreeTimer:Elapsed time: 209.79 ms.
+radiussearch_kdtreeTimer:Elapsed time: 79.5 ms.
+24481
+radiussearch_gpu_octreeTimer:Elapsed time: 2.658 ms.
+data width: 24844
+kdtree radius search
+total points: 24844
+radiussearch_octreeTimer:Elapsed time: 212.718 ms.
+radiussearch_kdtreeTimer:Elapsed time: 82.623 ms.
+24843
+radiussearch_gpu_octreeTimer:Elapsed time: 2.614 ms.
+data width: 25357
+kdtree radius search
+total points: 25357
+radiussearch_octreeTimer:Elapsed time: 222.682 ms.
+radiussearch_kdtreeTimer:Elapsed time: 87.848 ms.
+25356
+radiussearch_gpu_octreeTimer:Elapsed time: 2.535 ms.
+data width: 25002
+kdtree radius search
+total points: 25002
+radiussearch_octreeTimer:Elapsed time: 233.304 ms.
+radiussearch_kdtreeTimer:Elapsed time: 92.472 ms.
+25001
+radiussearch_gpu_octreeTimer:Elapsed time: 2.818 ms.
+data width: 25054
+kdtree radius search
+total points: 25054
+radiussearch_octreeTimer:Elapsed time: 243.504 ms.
+radiussearch_kdtreeTimer:Elapsed time: 94.41 ms.
+25053
+radiussearch_gpu_octreeTimer:Elapsed time: 2.89 ms.
+data width: 25129
+kdtree radius search
+total points: 25129
+radiussearch_octreeTimer:Elapsed time: 289.053 ms.
+radiussearch_kdtreeTimer:Elapsed time: 125.194 ms.
+25128
+radiussearch_gpu_octreeTimer:Elapsed time: 2.916 ms.
+data width: 24490
+kdtree radius search
+total points: 24490
+radiussearch_octreeTimer:Elapsed time: 331.733 ms.
+radiussearch_kdtreeTimer:Elapsed time: 165.064 ms.
+24489
+radiussearch_gpu_octreeTimer:Elapsed time: 3.611 ms.
+data width: 22426
+kdtree radius search
+total points: 22426
+radiussearch_octreeTimer:Elapsed time: 194.166 ms.
+radiussearch_kdtreeTimer:Elapsed time: 73.737 ms.
+22425
+radiussearch_gpu_octreeTimer:Elapsed time: 2.443 ms.
+data width: 22304
+kdtree radius search
+total points: 22304
+radiussearch_octreeTimer:Elapsed time: 197.886 ms.
+radiussearch_kdtreeTimer:Elapsed time: 76.061 ms.
+22303
+radiussearch_gpu_octreeTimer:Elapsed time: 2.242 ms.
+data width: 22896
+kdtree radius search
+total points: 22896
+radiussearch_octreeTimer:Elapsed time: 218.858 ms.
+radiussearch_kdtreeTimer:Elapsed time: 83.634 ms.
+22895
+radiussearch_gpu_octreeTimer:Elapsed time: 2.583 ms.
+data width: 23839
+kdtree radius search
+total points: 23839
+radiussearch_octreeTimer:Elapsed time: 252.054 ms.
+radiussearch_kdtreeTimer:Elapsed time: 97.664 ms.
+23838
+radiussearch_gpu_octreeTimer:Elapsed time: 2.457 ms.
+data width: 23523
+kdtree radius search
+total points: 23523
+radiussearch_octreeTimer:Elapsed time: 278.472 ms.
+radiussearch_kdtreeTimer:Elapsed time: 108.903 ms.
+23522
+radiussearch_gpu_octreeTimer:Elapsed time: 2.788 ms.
+data width: 24074
+kdtree radius search
+total points: 24074
+radiussearch_octreeTimer:Elapsed time: 310.591 ms.
+radiussearch_kdtreeTimer:Elapsed time: 124.302 ms.
+24073
+radiussearch_gpu_octreeTimer:Elapsed time: 2.84 ms.
+data width: 23880
+kdtree radius search
+total points: 23880
+radiussearch_octreeTimer:Elapsed time: 347.09 ms.
+radiussearch_kdtreeTimer:Elapsed time: 141.509 ms.
+23879
+radiussearch_gpu_octreeTimer:Elapsed time: 2.96 ms.
+data width: 25179
+kdtree radius search
+total points: 25179
+radiussearch_octreeTimer:Elapsed time: 385.558 ms.
+radiussearch_kdtreeTimer:Elapsed time: 157.935 ms.
+25178
+radiussearch_gpu_octreeTimer:Elapsed time: 3.077 ms.
+data width: 24411
+kdtree radius search
+total points: 24411
+radiussearch_octreeTimer:Elapsed time: 392.112 ms.
+radiussearch_kdtreeTimer:Elapsed time: 158.531 ms.
+24410
+radiussearch_gpu_octreeTimer:Elapsed time: 6.811 ms.
+data width: 26763
+kdtree radius search
+total points: 26763
+radiussearch_octreeTimer:Elapsed time: 454.901 ms.
+radiussearch_kdtreeTimer:Elapsed time: 185.931 ms.
+26762
+radiussearch_gpu_octreeTimer:Elapsed time: 4.158 ms.
+data width: 29344
+kdtree radius search
+total points: 29344
+radiussearch_octreeTimer:Elapsed time: 502.776 ms.
+radiussearch_kdtreeTimer:Elapsed time: 202.126 ms.
+29343
+radiussearch_gpu_octreeTimer:Elapsed time: 4.932 ms.
+data width: 27985
+kdtree radius search
+total points: 27985
+radiussearch_octreeTimer:Elapsed time: 523.424 ms.
+radiussearch_kdtreeTimer:Elapsed time: 205.389 ms.
+27984
+radiussearch_gpu_octreeTimer:Elapsed time: 4.822 ms.
+data width: 27874
+kdtree radius search
+total points: 27874
+radiussearch_octreeTimer:Elapsed time: 587.767 ms.
+radiussearch_kdtreeTimer:Elapsed time: 226.54 ms.
+27873
+radiussearch_gpu_octreeTimer:Elapsed time: 7.081 ms.
+data width: 28425
+kdtree radius search
+total points: 28425
+radiussearch_octreeTimer:Elapsed time: 571.42 ms.
+radiussearch_kdtreeTimer:Elapsed time: 215.962 ms.
+28424
+radiussearch_gpu_octreeTimer:Elapsed time: 5.553 ms.
+data width: 29427
+kdtree radius search
+total points: 29427
+radiussearch_octreeTimer:Elapsed time: 626.995 ms.
+radiussearch_kdtreeTimer:Elapsed time: 237.073 ms.
+29426
+radiussearch_gpu_octreeTimer:Elapsed time: 5.77 ms.
+data width: 27851
+kdtree radius search
+total points: 27851
+radiussearch_octreeTimer:Elapsed time: 570.543 ms.
+radiussearch_kdtreeTimer:Elapsed time: 221.493 ms.
+27850
+radiussearch_gpu_octreeTimer:Elapsed time: 5.342 ms.
+data width: 25827
+kdtree radius search
+total points: 25827
+radiussearch_octreeTimer:Elapsed time: 546.281 ms.
+radiussearch_kdtreeTimer:Elapsed time: 221.024 ms.
+25826
+radiussearch_gpu_octreeTimer:Elapsed time: 4.626 ms.
+data width: 22751
+kdtree radius search
+total points: 22751
+radiussearch_octreeTimer:Elapsed time: 363.072 ms.
+radiussearch_kdtreeTimer:Elapsed time: 150.708 ms.
+22750
+radiussearch_gpu_octreeTimer:Elapsed time: 3.951 ms.
+data width: 21530
+kdtree radius search
+total points: 21530
+radiussearch_octreeTimer:Elapsed time: 199.877 ms.
+radiussearch_kdtreeTimer:Elapsed time: 77.155 ms.
+21529
+radiussearch_gpu_octreeTimer:Elapsed time: 2.161 ms.
+data width: 21577
+kdtree radius search
+total points: 21577
+radiussearch_octreeTimer:Elapsed time: 205.647 ms.
+radiussearch_kdtreeTimer:Elapsed time: 81.798 ms.
+21576
+radiussearch_gpu_octreeTimer:Elapsed time: 2.368 ms.
+data width: 20602
+kdtree radius search
+total points: 20602
+radiussearch_octreeTimer:Elapsed time: 214.123 ms.
+radiussearch_kdtreeTimer:Elapsed time: 88.894 ms.
+20601
+radiussearch_gpu_octreeTimer:Elapsed time: 2.492 ms.
+data width: 20981
+kdtree radius search
+total points: 20981
+radiussearch_octreeTimer:Elapsed time: 187.073 ms.
+radiussearch_kdtreeTimer:Elapsed time: 81.094 ms.
+20980
+radiussearch_gpu_octreeTimer:Elapsed time: 2.388 ms.
+data width: 21124
+kdtree radius search
+total points: 21124
+radiussearch_octreeTimer:Elapsed time: 204.049 ms.
+radiussearch_kdtreeTimer:Elapsed time: 91.54 ms.
+21123
+radiussearch_gpu_octreeTimer:Elapsed time: 2.389 ms.
+data width: 21518
+kdtree radius search
+total points: 21518
+radiussearch_octreeTimer:Elapsed time: 209.154 ms.
+radiussearch_kdtreeTimer:Elapsed time: 92.59 ms.
+21517
+radiussearch_gpu_octreeTimer:Elapsed time: 2.366 ms.
+data width: 21391
+kdtree radius search
+total points: 21391
+radiussearch_octreeTimer:Elapsed time: 184.683 ms.
+radiussearch_kdtreeTimer:Elapsed time: 74.587 ms.
+21390
+radiussearch_gpu_octreeTimer:Elapsed time: 2.535 ms.
+data width: 21950
+kdtree radius search
+total points: 21950
+radiussearch_octreeTimer:Elapsed time: 209.158 ms.
+radiussearch_kdtreeTimer:Elapsed time: 85.562 ms.
+21949
+radiussearch_gpu_octreeTimer:Elapsed time: 2.503 ms.
+data width: 22931
+kdtree radius search
+total points: 22931
+radiussearch_octreeTimer:Elapsed time: 225.413 ms.
+radiussearch_kdtreeTimer:Elapsed time: 93.944 ms.
+22930
+radiussearch_gpu_octreeTimer:Elapsed time: 2.81 ms.
+data width: 23475
+kdtree radius search
+total points: 23475
+radiussearch_octreeTimer:Elapsed time: 225.14 ms.
+radiussearch_kdtreeTimer:Elapsed time: 88.271 ms.
+23474
+radiussearch_gpu_octreeTimer:Elapsed time: 2.549 ms.
+data width: 25331
+kdtree radius search
+total points: 25331
+radiussearch_octreeTimer:Elapsed time: 229.34 ms.
+radiussearch_kdtreeTimer:Elapsed time: 87.859 ms.
+25330
+radiussearch_gpu_octreeTimer:Elapsed time: 2.544 ms.
+data width: 26360
+kdtree radius search
+total points: 26360
+radiussearch_octreeTimer:Elapsed time: 251.999 ms.
+radiussearch_kdtreeTimer:Elapsed time: 98.236 ms.
+26359
+radiussearch_gpu_octreeTimer:Elapsed time: 3.829 ms.
+data width: 22517
+kdtree radius search
+total points: 22517
+radiussearch_octreeTimer:Elapsed time: 246.577 ms.
+radiussearch_kdtreeTimer:Elapsed time: 100.128 ms.
+22516
+radiussearch_gpu_octreeTimer:Elapsed time: 2.651 ms.
+data width: 23272
+kdtree radius search
+total points: 23272
+radiussearch_octreeTimer:Elapsed time: 308.109 ms.
+radiussearch_kdtreeTimer:Elapsed time: 125.97 ms.
+23271
+radiussearch_gpu_octreeTimer:Elapsed time: 3.013 ms.
+data width: 24482
+kdtree radius search
+total points: 24482
+radiussearch_octreeTimer:Elapsed time: 346.192 ms.
+radiussearch_kdtreeTimer:Elapsed time: 142.518 ms.
+24481
+radiussearch_gpu_octreeTimer:Elapsed time: 3.345 ms.
+data width: 25474
+kdtree radius search
+total points: 25474
+radiussearch_octreeTimer:Elapsed time: 388.363 ms.
+radiussearch_kdtreeTimer:Elapsed time: 165.781 ms.
+25473
+radiussearch_gpu_octreeTimer:Elapsed time: 3.42 ms.
+data width: 24749
+kdtree radius search
+total points: 24749
+radiussearch_octreeTimer:Elapsed time: 365.625 ms.
+radiussearch_kdtreeTimer:Elapsed time: 158.521 ms.
+24748
+radiussearch_gpu_octreeTimer:Elapsed time: 3.52 ms.
+data width: 24778
+kdtree radius search
+total points: 24778
+radiussearch_octreeTimer:Elapsed time: 404.149 ms.
+radiussearch_kdtreeTimer:Elapsed time: 161.895 ms.
+24777
+radiussearch_gpu_octreeTimer:Elapsed time: 3.24 ms.
+data width: 24865
+kdtree radius search
+total points: 24865
+radiussearch_octreeTimer:Elapsed time: 343.144 ms.
+radiussearch_kdtreeTimer:Elapsed time: 141.826 ms.
+24864
+radiussearch_gpu_octreeTimer:Elapsed time: 3.031 ms.
+data width: 22433
+kdtree radius search
+total points: 22433
+radiussearch_octreeTimer:Elapsed time: 289.874 ms.
+radiussearch_kdtreeTimer:Elapsed time: 109.352 ms.
+22432
+radiussearch_gpu_octreeTimer:Elapsed time: 3.104 ms.
+data width: 22089
+kdtree radius search
+total points: 22089
+radiussearch_octreeTimer:Elapsed time: 241.552 ms.
+radiussearch_kdtreeTimer:Elapsed time: 90.92 ms.
+22088
+radiussearch_gpu_octreeTimer:Elapsed time: 2.831 ms.
+data width: 21752
+kdtree radius search
+total points: 21752
+radiussearch_octreeTimer:Elapsed time: 218.006 ms.
+radiussearch_kdtreeTimer:Elapsed time: 82.246 ms.
+21751
+radiussearch_gpu_octreeTimer:Elapsed time: 2.934 ms.
+data width: 20798
+kdtree radius search
+total points: 20798
+radiussearch_octreeTimer:Elapsed time: 212.387 ms.
+radiussearch_kdtreeTimer:Elapsed time: 82.166 ms.
+20797
+radiussearch_gpu_octreeTimer:Elapsed time: 2.495 ms.
+data width: 19959
+kdtree radius search
+total points: 19959
+radiussearch_octreeTimer:Elapsed time: 171.851 ms.
+radiussearch_kdtreeTimer:Elapsed time: 64.422 ms.
+19958
+radiussearch_gpu_octreeTimer:Elapsed time: 1.955 ms.
+data width: 19278
+kdtree radius search
+total points: 19278
+radiussearch_octreeTimer:Elapsed time: 160.867 ms.
+radiussearch_kdtreeTimer:Elapsed time: 62.682 ms.
+19277
+radiussearch_gpu_octreeTimer:Elapsed time: 2.035 ms.
+data width: 18902
+kdtree radius search
+total points: 18902
+radiussearch_octreeTimer:Elapsed time: 155.697 ms.
+radiussearch_kdtreeTimer:Elapsed time: 60.679 ms.
+18901
+radiussearch_gpu_octreeTimer:Elapsed time: 1.96 ms.
+data width: 17813
+kdtree radius search
+total points: 17813
+radiussearch_octreeTimer:Elapsed time: 156.75 ms.
+radiussearch_kdtreeTimer:Elapsed time: 62.844 ms.
+17812
+radiussearch_gpu_octreeTimer:Elapsed time: 2.031 ms.
+data width: 16574
+kdtree radius search
+total points: 16574
+radiussearch_octreeTimer:Elapsed time: 144.504 ms.
+radiussearch_kdtreeTimer:Elapsed time: 57.869 ms.
+16573
+radiussearch_gpu_octreeTimer:Elapsed time: 2.04 ms.
+data width: 16589
+kdtree radius search
+total points: 16589
+radiussearch_octreeTimer:Elapsed time: 138.761 ms.
+radiussearch_kdtreeTimer:Elapsed time: 56.514 ms.
+16588
+radiussearch_gpu_octreeTimer:Elapsed time: 2.465 ms.
+data width: 17868
+kdtree radius search
+total points: 17868
+radiussearch_octreeTimer:Elapsed time: 145.082 ms.
+radiussearch_kdtreeTimer:Elapsed time: 57.575 ms.
+17867
+radiussearch_gpu_octreeTimer:Elapsed time: 2.387 ms.
+data width: 17648
+kdtree radius search
+total points: 17648
+radiussearch_octreeTimer:Elapsed time: 144.576 ms.
+radiussearch_kdtreeTimer:Elapsed time: 55.552 ms.
+17647
+radiussearch_gpu_octreeTimer:Elapsed time: 2.255 ms.
+data width: 15823
+kdtree radius search
+total points: 15823
+radiussearch_octreeTimer:Elapsed time: 131.004 ms.
+radiussearch_kdtreeTimer:Elapsed time: 51.622 ms.
+15822
+radiussearch_gpu_octreeTimer:Elapsed time: 1.715 ms.
+data width: 16859
+kdtree radius search
+total points: 16859
+radiussearch_octreeTimer:Elapsed time: 142.535 ms.
+radiussearch_kdtreeTimer:Elapsed time: 56.937 ms.
+16858
+radiussearch_gpu_octreeTimer:Elapsed time: 1.874 ms.
+data width: 17406
+kdtree radius search
+total points: 17406
+radiussearch_octreeTimer:Elapsed time: 146.049 ms.
+radiussearch_kdtreeTimer:Elapsed time: 58.166 ms.
+17405
+radiussearch_gpu_octreeTimer:Elapsed time: 1.824 ms.
+data width: 17312
+kdtree radius search
+total points: 17312
+radiussearch_octreeTimer:Elapsed time: 149.03 ms.
+radiussearch_kdtreeTimer:Elapsed time: 60.558 ms.
+17311
+radiussearch_gpu_octreeTimer:Elapsed time: 1.97 ms.
+data width: 16864
+kdtree radius search
+total points: 16864
+radiussearch_octreeTimer:Elapsed time: 146.229 ms.
+radiussearch_kdtreeTimer:Elapsed time: 59.461 ms.
+16863
+radiussearch_gpu_octreeTimer:Elapsed time: 2.027 ms.
+data width: 16650
+kdtree radius search
+total points: 16650
+radiussearch_octreeTimer:Elapsed time: 148.216 ms.
+radiussearch_kdtreeTimer:Elapsed time: 59.699 ms.
+16649
+radiussearch_gpu_octreeTimer:Elapsed time: 2.051 ms.
+data width: 16709
+kdtree radius search
+total points: 16709
+radiussearch_octreeTimer:Elapsed time: 158.031 ms.
+radiussearch_kdtreeTimer:Elapsed time: 64.667 ms.
+16708
+radiussearch_gpu_octreeTimer:Elapsed time: 1.821 ms.
+data width: 16989
+kdtree radius search
+total points: 16989
+radiussearch_octreeTimer:Elapsed time: 164.568 ms.
+radiussearch_kdtreeTimer:Elapsed time: 68.6 ms.
+16988
+radiussearch_gpu_octreeTimer:Elapsed time: 1.905 ms.
+data width: 16703
+kdtree radius search
+total points: 16703
+radiussearch_octreeTimer:Elapsed time: 175.96 ms.
+radiussearch_kdtreeTimer:Elapsed time: 72.61 ms.
+16702
+radiussearch_gpu_octreeTimer:Elapsed time: 2.127 ms.
+data width: 17559
+kdtree radius search
+total points: 17559
+radiussearch_octreeTimer:Elapsed time: 206.219 ms.
+radiussearch_kdtreeTimer:Elapsed time: 85.301 ms.
+17558
+radiussearch_gpu_octreeTimer:Elapsed time: 2.252 ms.
+data width: 18658
+kdtree radius search
+total points: 18658
+radiussearch_octreeTimer:Elapsed time: 214.751 ms.
+radiussearch_kdtreeTimer:Elapsed time: 91.188 ms.
+18657
+radiussearch_gpu_octreeTimer:Elapsed time: 2.577 ms.
+data width: 16850
+kdtree radius search
+total points: 16850
+radiussearch_octreeTimer:Elapsed time: 192.424 ms.
+radiussearch_kdtreeTimer:Elapsed time: 82.019 ms.
+16849
+radiussearch_gpu_octreeTimer:Elapsed time: 2.404 ms.
+data width: 17262
+kdtree radius search
+total points: 17262
+radiussearch_octreeTimer:Elapsed time: 224.967 ms.
+radiussearch_kdtreeTimer:Elapsed time: 98.639 ms.
+17261
+radiussearch_gpu_octreeTimer:Elapsed time: 2.393 ms.
+data width: 16447
+kdtree radius search
+total points: 16447
+radiussearch_octreeTimer:Elapsed time: 207.403 ms.
+radiussearch_kdtreeTimer:Elapsed time: 87.456 ms.
+16446
+radiussearch_gpu_octreeTimer:Elapsed time: 2.551 ms.
+data width: 16950
+kdtree radius search
+total points: 16950
+radiussearch_octreeTimer:Elapsed time: 214.251 ms.
+radiussearch_kdtreeTimer:Elapsed time: 89.174 ms.
+16949
+radiussearch_gpu_octreeTimer:Elapsed time: 2.458 ms.
+data width: 17278
+kdtree radius search
+total points: 17278
+radiussearch_octreeTimer:Elapsed time: 243.031 ms.
+radiussearch_kdtreeTimer:Elapsed time: 98.798 ms.
+17277
+radiussearch_gpu_octreeTimer:Elapsed time: 2.276 ms.
+data width: 17806
+kdtree radius search
+total points: 17806
+radiussearch_octreeTimer:Elapsed time: 266.864 ms.
+radiussearch_kdtreeTimer:Elapsed time: 110.256 ms.
+17805
+radiussearch_gpu_octreeTimer:Elapsed time: 2.334 ms.
+data width: 18177
+kdtree radius search
+total points: 18177
+radiussearch_octreeTimer:Elapsed time: 268.115 ms.
+radiussearch_kdtreeTimer:Elapsed time: 111.578 ms.
+18176
+radiussearch_gpu_octreeTimer:Elapsed time: 2.329 ms.
+data width: 18843
+kdtree radius search
+total points: 18843
+radiussearch_octreeTimer:Elapsed time: 233.295 ms.
+radiussearch_kdtreeTimer:Elapsed time: 94.418 ms.
+18842
+radiussearch_gpu_octreeTimer:Elapsed time: 2.576 ms.
+data width: 18441
+kdtree radius search
+total points: 18441
+radiussearch_octreeTimer:Elapsed time: 211.807 ms.
+radiussearch_kdtreeTimer:Elapsed time: 81.687 ms.
+18440
+radiussearch_gpu_octreeTimer:Elapsed time: 2.198 ms.
+data width: 19370
+kdtree radius search
+total points: 19370
+radiussearch_octreeTimer:Elapsed time: 205.844 ms.
+radiussearch_kdtreeTimer:Elapsed time: 80.027 ms.
+19369
+radiussearch_gpu_octreeTimer:Elapsed time: 2.372 ms.
+data width: 19872
+kdtree radius search
+total points: 19872
+radiussearch_octreeTimer:Elapsed time: 212.632 ms.
+radiussearch_kdtreeTimer:Elapsed time: 82.864 ms.
+19871
+radiussearch_gpu_octreeTimer:Elapsed time: 2.489 ms.
+data width: 20431
+kdtree radius search
+total points: 20431
+radiussearch_octreeTimer:Elapsed time: 223.712 ms.
+radiussearch_kdtreeTimer:Elapsed time: 85.626 ms.
+20430
+radiussearch_gpu_octreeTimer:Elapsed time: 3.83 ms.
+data width: 19741
+kdtree radius search
+total points: 19741
+radiussearch_octreeTimer:Elapsed time: 220.335 ms.
+radiussearch_kdtreeTimer:Elapsed time: 85.436 ms.
+19740
+radiussearch_gpu_octreeTimer:Elapsed time: 2.435 ms.
+data width: 19730
+kdtree radius search
+total points: 19730
+radiussearch_octreeTimer:Elapsed time: 243.897 ms.
+radiussearch_kdtreeTimer:Elapsed time: 94.499 ms.
+19729
+radiussearch_gpu_octreeTimer:Elapsed time: 2.371 ms.
+data width: 20155
+kdtree radius search
+total points: 20155
+radiussearch_octreeTimer:Elapsed time: 276.229 ms.
+radiussearch_kdtreeTimer:Elapsed time: 111.009 ms.
+20154
+radiussearch_gpu_octreeTimer:Elapsed time: 2.509 ms.
+data width: 18980
+kdtree radius search
+total points: 18980
+radiussearch_octreeTimer:Elapsed time: 314.583 ms.
+radiussearch_kdtreeTimer:Elapsed time: 129.279 ms.
+18979
+radiussearch_gpu_octreeTimer:Elapsed time: 3.377 ms.
+data width: 21544
+kdtree radius search
+total points: 21544
+radiussearch_octreeTimer:Elapsed time: 383.038 ms.
+radiussearch_kdtreeTimer:Elapsed time: 160.7 ms.
+21543
+radiussearch_gpu_octreeTimer:Elapsed time: 3.4 ms.
+data width: 24005
+kdtree radius search
+total points: 24005
+radiussearch_octreeTimer:Elapsed time: 401.959 ms.
+radiussearch_kdtreeTimer:Elapsed time: 170.633 ms.
+24004
+radiussearch_gpu_octreeTimer:Elapsed time: 2.979 ms.
+data width: 23032
+kdtree radius search
+total points: 23032
+radiussearch_octreeTimer:Elapsed time: 304.724 ms.
+radiussearch_kdtreeTimer:Elapsed time: 127.149 ms.
+23031
+radiussearch_gpu_octreeTimer:Elapsed time: 2.8 ms.
+data width: 25486
+kdtree radius search
+total points: 25486
+radiussearch_octreeTimer:Elapsed time: 350.081 ms.
+radiussearch_kdtreeTimer:Elapsed time: 138.849 ms.
+25485
+radiussearch_gpu_octreeTimer:Elapsed time: 3.514 ms.
+data width: 27129
+kdtree radius search
+total points: 27129
+radiussearch_octreeTimer:Elapsed time: 449.723 ms.
+radiussearch_kdtreeTimer:Elapsed time: 179.613 ms.
+27128
+radiussearch_gpu_octreeTimer:Elapsed time: 4.406 ms.
+data width: 28922
+kdtree radius search
+total points: 28922
+radiussearch_octreeTimer:Elapsed time: 627.458 ms.
+radiussearch_kdtreeTimer:Elapsed time: 241.08 ms.
+28921
+radiussearch_gpu_octreeTimer:Elapsed time: 5.972 ms.
+data width: 29297
+kdtree radius search
+total points: 29297
+radiussearch_octreeTimer:Elapsed time: 689.985 ms.
+radiussearch_kdtreeTimer:Elapsed time: 278.122 ms.
+29296
+radiussearch_gpu_octreeTimer:Elapsed time: 10.601 ms.
+data width: 29259
+kdtree radius search
+total points: 29259
+radiussearch_octreeTimer:Elapsed time: 702.081 ms.
+radiussearch_kdtreeTimer:Elapsed time: 288.68 ms.
+29258
+radiussearch_gpu_octreeTimer:Elapsed time: 5.956 ms.
+data width: 28603
+kdtree radius search
+total points: 28603
+radiussearch_octreeTimer:Elapsed time: 669.595 ms.
+radiussearch_kdtreeTimer:Elapsed time: 274.677 ms.
+28602
+radiussearch_gpu_octreeTimer:Elapsed time: 5.536 ms.
+data width: 27547
+kdtree radius search
+total points: 27547
+radiussearch_octreeTimer:Elapsed time: 513.064 ms.
+radiussearch_kdtreeTimer:Elapsed time: 211.885 ms.
+27546
+radiussearch_gpu_octreeTimer:Elapsed time: 5.015 ms.
+data width: 25662
+kdtree radius search
+total points: 25662
+radiussearch_octreeTimer:Elapsed time: 407.377 ms.
+radiussearch_kdtreeTimer:Elapsed time: 175.051 ms.
+25661
+radiussearch_gpu_octreeTimer:Elapsed time: 3.67 ms.
+data width: 24922
+kdtree radius search
+total points: 24922
+radiussearch_octreeTimer:Elapsed time: 368.252 ms.
+radiussearch_kdtreeTimer:Elapsed time: 155.28 ms.
+24921
+radiussearch_gpu_octreeTimer:Elapsed time: 3.168 ms.
+data width: 24727
+kdtree radius search
+total points: 24727
+radiussearch_octreeTimer:Elapsed time: 370.346 ms.
+radiussearch_kdtreeTimer:Elapsed time: 159.439 ms.
+24726
+radiussearch_gpu_octreeTimer:Elapsed time: 3.114 ms.
+data width: 24957
+kdtree radius search
+total points: 24957
+radiussearch_octreeTimer:Elapsed time: 408.632 ms.
+radiussearch_kdtreeTimer:Elapsed time: 172.578 ms.
+24956
+radiussearch_gpu_octreeTimer:Elapsed time: 3.391 ms.
+data width: 25263
+kdtree radius search
+total points: 25263
+radiussearch_octreeTimer:Elapsed time: 369.653 ms.
+radiussearch_kdtreeTimer:Elapsed time: 159.406 ms.
+25262
+radiussearch_gpu_octreeTimer:Elapsed time: 3.111 ms.
+data width: 25370
+kdtree radius search
+total points: 25370
+radiussearch_octreeTimer:Elapsed time: 390.161 ms.
+radiussearch_kdtreeTimer:Elapsed time: 163.663 ms.
+25369
+radiussearch_gpu_octreeTimer:Elapsed time: 3.303 ms.
+data width: 24474
+kdtree radius search
+total points: 24474
+radiussearch_octreeTimer:Elapsed time: 375.39 ms.
+radiussearch_kdtreeTimer:Elapsed time: 152.515 ms.
+24473
+radiussearch_gpu_octreeTimer:Elapsed time: 3.137 ms.
+data width: 24351
+kdtree radius search
+total points: 24351
+radiussearch_octreeTimer:Elapsed time: 375.61 ms.
+radiussearch_kdtreeTimer:Elapsed time: 151.42 ms.
+24350
+radiussearch_gpu_octreeTimer:Elapsed time: 3.299 ms.
+data width: 24744
+kdtree radius search
+total points: 24744
+radiussearch_octreeTimer:Elapsed time: 328.063 ms.
+radiussearch_kdtreeTimer:Elapsed time: 128.011 ms.
+24743
+radiussearch_gpu_octreeTimer:Elapsed time: 3.198 ms.
+data width: 24087
+kdtree radius search
+total points: 24087
+radiussearch_octreeTimer:Elapsed time: 325.386 ms.
+radiussearch_kdtreeTimer:Elapsed time: 129.397 ms.
+24086
+radiussearch_gpu_octreeTimer:Elapsed time: 2.966 ms.
+data width: 23558
+kdtree radius search
+total points: 23558
+radiussearch_octreeTimer:Elapsed time: 325.848 ms.
+radiussearch_kdtreeTimer:Elapsed time: 132.648 ms.
+23557
+radiussearch_gpu_octreeTimer:Elapsed time: 9.835 ms.
+data width: 22211
+kdtree radius search
+total points: 22211
+radiussearch_octreeTimer:Elapsed time: 220.753 ms.
+radiussearch_kdtreeTimer:Elapsed time: 87.858 ms.
+22210
+radiussearch_gpu_octreeTimer:Elapsed time: 2.315 ms.
+data width: 21177
+kdtree radius search
+total points: 21177
+radiussearch_octreeTimer:Elapsed time: 220.853 ms.
+radiussearch_kdtreeTimer:Elapsed time: 85.565 ms.
+21176
+radiussearch_gpu_octreeTimer:Elapsed time: 2.392 ms.
+data width: 21921
+kdtree radius search
+total points: 21921
+radiussearch_octreeTimer:Elapsed time: 223.784 ms.
+radiussearch_kdtreeTimer:Elapsed time: 87.534 ms.
+21920
+radiussearch_gpu_octreeTimer:Elapsed time: 2.294 ms.
+data width: 23056
+kdtree radius search
+total points: 23056
+radiussearch_octreeTimer:Elapsed time: 207.737 ms.
+radiussearch_kdtreeTimer:Elapsed time: 78.21 ms.
+23055
+radiussearch_gpu_octreeTimer:Elapsed time: 2.283 ms.
+data width: 23118
+kdtree radius search
+total points: 23118
+radiussearch_octreeTimer:Elapsed time: 220.576 ms.
+radiussearch_kdtreeTimer:Elapsed time: 85.056 ms.
+23117
+radiussearch_gpu_octreeTimer:Elapsed time: 2.367 ms.
+data width: 23485
+kdtree radius search
+total points: 23485
+radiussearch_octreeTimer:Elapsed time: 217.121 ms.
+radiussearch_kdtreeTimer:Elapsed time: 85.164 ms.
+23484
+radiussearch_gpu_octreeTimer:Elapsed time: 2.424 ms.
+data width: 24554
+kdtree radius search
+total points: 24554
+radiussearch_octreeTimer:Elapsed time: 215.384 ms.
+radiussearch_kdtreeTimer:Elapsed time: 82.617 ms.
+24553
+radiussearch_gpu_octreeTimer:Elapsed time: 5.831 ms.
+data width: 25375
+kdtree radius search
+total points: 25375
+radiussearch_octreeTimer:Elapsed time: 259.47 ms.
+radiussearch_kdtreeTimer:Elapsed time: 95.023 ms.
+25374
+radiussearch_gpu_octreeTimer:Elapsed time: 2.624 ms.
+data width: 26257
+kdtree radius search
+total points: 26257
+radiussearch_octreeTimer:Elapsed time: 303.507 ms.
+radiussearch_kdtreeTimer:Elapsed time: 121.911 ms.
+26256
+radiussearch_gpu_octreeTimer:Elapsed time: 3.681 ms.
+data width: 24868
+kdtree radius search
+total points: 24868
+radiussearch_octreeTimer:Elapsed time: 292.794 ms.
+radiussearch_kdtreeTimer:Elapsed time: 118.171 ms.
+24867
+radiussearch_gpu_octreeTimer:Elapsed time: 2.713 ms.
+data width: 24717
+kdtree radius search
+total points: 24717
+radiussearch_octreeTimer:Elapsed time: 306.423 ms.
+radiussearch_kdtreeTimer:Elapsed time: 118.754 ms.
+24716
+radiussearch_gpu_octreeTimer:Elapsed time: 2.644 ms.
+data width: 25107
+kdtree radius search
+total points: 25107
+radiussearch_octreeTimer:Elapsed time: 311.428 ms.
+radiussearch_kdtreeTimer:Elapsed time: 121.704 ms.
+25106
+radiussearch_gpu_octreeTimer:Elapsed time: 2.828 ms.
+data width: 26166
+kdtree radius search
+total points: 26166
+radiussearch_octreeTimer:Elapsed time: 342.223 ms.
+radiussearch_kdtreeTimer:Elapsed time: 135.873 ms.
+26165
+radiussearch_gpu_octreeTimer:Elapsed time: 3.006 ms.
+data width: 25741
+kdtree radius search
+total points: 25741
+radiussearch_octreeTimer:Elapsed time: 295.284 ms.
+radiussearch_kdtreeTimer:Elapsed time: 112.056 ms.
+25740
+radiussearch_gpu_octreeTimer:Elapsed time: 2.737 ms.
+data width: 25745
+kdtree radius search
+total points: 25745
+radiussearch_octreeTimer:Elapsed time: 326.481 ms.
+radiussearch_kdtreeTimer:Elapsed time: 129.972 ms.
+25744
+radiussearch_gpu_octreeTimer:Elapsed time: 2.926 ms.
+data width: 25579
+kdtree radius search
+total points: 25579
+radiussearch_octreeTimer:Elapsed time: 337.835 ms.
+radiussearch_kdtreeTimer:Elapsed time: 135.338 ms.
+25578
+radiussearch_gpu_octreeTimer:Elapsed time: 3.181 ms.
+data width: 28249
+kdtree radius search
+total points: 28249
+radiussearch_octreeTimer:Elapsed time: 418.951 ms.
+radiussearch_kdtreeTimer:Elapsed time: 173.856 ms.
+28248
+radiussearch_gpu_octreeTimer:Elapsed time: 4.228 ms.
+data width: 28380
+kdtree radius search
+total points: 28380
+radiussearch_octreeTimer:Elapsed time: 450.947 ms.
+radiussearch_kdtreeTimer:Elapsed time: 188.586 ms.
+28379
+radiussearch_gpu_octreeTimer:Elapsed time: 6.549 ms.
+data width: 30385
+kdtree radius search
+total points: 30385
+radiussearch_octreeTimer:Elapsed time: 554.87 ms.
+radiussearch_kdtreeTimer:Elapsed time: 232.837 ms.
+30384
+radiussearch_gpu_octreeTimer:Elapsed time: 4.491 ms.
+data width: 29549
+kdtree radius search
+total points: 29549
+radiussearch_octreeTimer:Elapsed time: 452.432 ms.
+radiussearch_kdtreeTimer:Elapsed time: 175.846 ms.
+29548
+radiussearch_gpu_octreeTimer:Elapsed time: 4.804 ms.
+data width: 28197
+kdtree radius search
+total points: 28197
+radiussearch_octreeTimer:Elapsed time: 444.888 ms.
+radiussearch_kdtreeTimer:Elapsed time: 172.987 ms.
+28196
+radiussearch_gpu_octreeTimer:Elapsed time: 4.174 ms.
+data width: 29825
+kdtree radius search
+total points: 29825
+radiussearch_octreeTimer:Elapsed time: 502.891 ms.
+radiussearch_kdtreeTimer:Elapsed time: 205.034 ms.
+29824
+radiussearch_gpu_octreeTimer:Elapsed time: 4.367 ms.
+data width: 30145
+kdtree radius search
+total points: 30145
+radiussearch_octreeTimer:Elapsed time: 452.287 ms.
+radiussearch_kdtreeTimer:Elapsed time: 192.053 ms.
+30144
+radiussearch_gpu_octreeTimer:Elapsed time: 4.653 ms.
+data width: 32555
+kdtree radius search
+total points: 32555
+radiussearch_octreeTimer:Elapsed time: 573.248 ms.
+radiussearch_kdtreeTimer:Elapsed time: 243.159 ms.
+32554
+radiussearch_gpu_octreeTimer:Elapsed time: 4.897 ms.
+data width: 27709
+kdtree radius search
+total points: 27709
+radiussearch_octreeTimer:Elapsed time: 374.976 ms.
+radiussearch_kdtreeTimer:Elapsed time: 152.708 ms.
+27708
+radiussearch_gpu_octreeTimer:Elapsed time: 4.017 ms.
+data width: 27023
+kdtree radius search
+total points: 27023
+radiussearch_octreeTimer:Elapsed time: 391.09 ms.
+radiussearch_kdtreeTimer:Elapsed time: 163.601 ms.
+27022
+radiussearch_gpu_octreeTimer:Elapsed time: 4.295 ms.
+data width: 26068
+kdtree radius search
+total points: 26068
+radiussearch_octreeTimer:Elapsed time: 395.032 ms.
+radiussearch_kdtreeTimer:Elapsed time: 161.416 ms.
+26067
+radiussearch_gpu_octreeTimer:Elapsed time: 3.069 ms.
+data width: 26307
+kdtree radius search
+total points: 26307
+radiussearch_octreeTimer:Elapsed time: 422.501 ms.
+radiussearch_kdtreeTimer:Elapsed time: 180.967 ms.
+26306
+radiussearch_gpu_octreeTimer:Elapsed time: 4.379 ms.
+data width: 24208
+kdtree radius search
+total points: 24208
+radiussearch_octreeTimer:Elapsed time: 397.894 ms.
+radiussearch_kdtreeTimer:Elapsed time: 173.347 ms.
+24207
+radiussearch_gpu_octreeTimer:Elapsed time: 3.4 ms.
+data width: 21938
+kdtree radius search
+total points: 21938
+radiussearch_octreeTimer:Elapsed time: 303.477 ms.
+radiussearch_kdtreeTimer:Elapsed time: 134.131 ms.
+21937
+radiussearch_gpu_octreeTimer:Elapsed time: 3.093 ms.
+data width: 18285
+kdtree radius search
+total points: 18285
+radiussearch_octreeTimer:Elapsed time: 144.176 ms.
+radiussearch_kdtreeTimer:Elapsed time: 57.537 ms.
+18284
+radiussearch_gpu_octreeTimer:Elapsed time: 2.414 ms.
+data width: 17150
+kdtree radius search
+total points: 17150
+radiussearch_octreeTimer:Elapsed time: 111.434 ms.
+radiussearch_kdtreeTimer:Elapsed time: 45.509 ms.
+17149
+radiussearch_gpu_octreeTimer:Elapsed time: 1.967 ms.
+data width: 17962
+kdtree radius search
+total points: 17962
+radiussearch_octreeTimer:Elapsed time: 130.423 ms.
+radiussearch_kdtreeTimer:Elapsed time: 53.101 ms.
+17961
+radiussearch_gpu_octreeTimer:Elapsed time: 2.057 ms.
+data width: 18210
+kdtree radius search
+total points: 18210
+radiussearch_octreeTimer:Elapsed time: 139.168 ms.
+radiussearch_kdtreeTimer:Elapsed time: 57.252 ms.
+18209
+radiussearch_gpu_octreeTimer:Elapsed time: 2.247 ms.
+data width: 18096
+kdtree radius search
+total points: 18096
+radiussearch_octreeTimer:Elapsed time: 146.308 ms.
+radiussearch_kdtreeTimer:Elapsed time: 62.583 ms.
+18095
+radiussearch_gpu_octreeTimer:Elapsed time: 2.083 ms.
+data width: 18689
+kdtree radius search
+total points: 18689
+radiussearch_octreeTimer:Elapsed time: 140.157 ms.
+radiussearch_kdtreeTimer:Elapsed time: 52.985 ms.
+18688
+radiussearch_gpu_octreeTimer:Elapsed time: 2.136 ms.
+data width: 19490
+kdtree radius search
+total points: 19490
+radiussearch_octreeTimer:Elapsed time: 152.109 ms.
+radiussearch_kdtreeTimer:Elapsed time: 58.484 ms.
+19489
+radiussearch_gpu_octreeTimer:Elapsed time: 2.35 ms.
+data width: 20056
+kdtree radius search
+total points: 20056
+radiussearch_octreeTimer:Elapsed time: 174.486 ms.
+radiussearch_kdtreeTimer:Elapsed time: 66.884 ms.
+20055
+radiussearch_gpu_octreeTimer:Elapsed time: 2.426 ms.
+data width: 20502
+kdtree radius search
+total points: 20502
+radiussearch_octreeTimer:Elapsed time: 184.583 ms.
+radiussearch_kdtreeTimer:Elapsed time: 71.87 ms.
+20501
+radiussearch_gpu_octreeTimer:Elapsed time: 2.298 ms.
+data width: 21539
+kdtree radius search
+total points: 21539
+radiussearch_octreeTimer:Elapsed time: 198.924 ms.
+radiussearch_kdtreeTimer:Elapsed time: 77.728 ms.
+21538
+radiussearch_gpu_octreeTimer:Elapsed time: 2.5 ms.
+data width: 22252
+kdtree radius search
+total points: 22252
+radiussearch_octreeTimer:Elapsed time: 234.208 ms.
+radiussearch_kdtreeTimer:Elapsed time: 92.629 ms.
+22251
+radiussearch_gpu_octreeTimer:Elapsed time: 2.644 ms.
+data width: 22633
+kdtree radius search
+total points: 22633
+radiussearch_octreeTimer:Elapsed time: 254.351 ms.
+radiussearch_kdtreeTimer:Elapsed time: 106.754 ms.
+22632
+radiussearch_gpu_octreeTimer:Elapsed time: 3.036 ms.
+data width: 24686
+kdtree radius search
+total points: 24686
+radiussearch_octreeTimer:Elapsed time: 316.107 ms.
+radiussearch_kdtreeTimer:Elapsed time: 138.808 ms.
+24685
+radiussearch_gpu_octreeTimer:Elapsed time: 3.297 ms.
+data width: 26103
+kdtree radius search
+total points: 26103
+radiussearch_octreeTimer:Elapsed time: 417.511 ms.
+radiussearch_kdtreeTimer:Elapsed time: 187.156 ms.
+26102
+radiussearch_gpu_octreeTimer:Elapsed time: 3.43 ms.
+data width: 28553
+kdtree radius search
+total points: 28553
+radiussearch_octreeTimer:Elapsed time: 592.133 ms.
+radiussearch_kdtreeTimer:Elapsed time: 278.346 ms.
+28552
+radiussearch_gpu_octreeTimer:Elapsed time: 5.001 ms.
+data width: 30367
+kdtree radius search
+total points: 30367
+radiussearch_octreeTimer:Elapsed time: 646.066 ms.
+radiussearch_kdtreeTimer:Elapsed time: 282.237 ms.
+30366
+radiussearch_gpu_octreeTimer:Elapsed time: 4.868 ms.
+data width: 33629
+kdtree radius search
+total points: 33629
+radiussearch_octreeTimer:Elapsed time: 657.555 ms.
+radiussearch_kdtreeTimer:Elapsed time: 286.763 ms.
+33628
+radiussearch_gpu_octreeTimer:Elapsed time: 4.397 ms.
+data width: 27612
+kdtree radius search
+total points: 27612
+radiussearch_octreeTimer:Elapsed time: 527.722 ms.
+radiussearch_kdtreeTimer:Elapsed time: 244.416 ms.
+27611
+radiussearch_gpu_octreeTimer:Elapsed time: 10.544 ms.
+data width: 26309
+kdtree radius search
+total points: 26309
+radiussearch_octreeTimer:Elapsed time: 510.129 ms.
+radiussearch_kdtreeTimer:Elapsed time: 244.56 ms.
+26308
+radiussearch_gpu_octreeTimer:Elapsed time: 5.49 ms.
+data width: 27946
+kdtree radius search
+total points: 27946
+radiussearch_octreeTimer:Elapsed time: 371.351 ms.
+radiussearch_kdtreeTimer:Elapsed time: 152.055 ms.
+27945
+radiussearch_gpu_octreeTimer:Elapsed time: 4.214 ms.
+data width: 27935
+kdtree radius search
+total points: 27935
+radiussearch_octreeTimer:Elapsed time: 424.562 ms.
+radiussearch_kdtreeTimer:Elapsed time: 183.948 ms.
+27934
+radiussearch_gpu_octreeTimer:Elapsed time: 4.714 ms.
+data width: 25295
+kdtree radius search
+total points: 25295
+radiussearch_octreeTimer:Elapsed time: 373.448 ms.
+radiussearch_kdtreeTimer:Elapsed time: 161.309 ms.
+25294
+radiussearch_gpu_octreeTimer:Elapsed time: 3.781 ms.
+data width: 25889
+kdtree radius search
+total points: 25889
+radiussearch_octreeTimer:Elapsed time: 378.384 ms.
+radiussearch_kdtreeTimer:Elapsed time: 160.178 ms.
+25888
+radiussearch_gpu_octreeTimer:Elapsed time: 3.812 ms.
+data width: 26071
+kdtree radius search
+total points: 26071
+radiussearch_octreeTimer:Elapsed time: 287.184 ms.
+radiussearch_kdtreeTimer:Elapsed time: 112.63 ms.
+26070
+radiussearch_gpu_octreeTimer:Elapsed time: 2.817 ms.
+data width: 25310
+kdtree radius search
+total points: 25310
+radiussearch_octreeTimer:Elapsed time: 296.047 ms.
+radiussearch_kdtreeTimer:Elapsed time: 117.747 ms.
+25309
+radiussearch_gpu_octreeTimer:Elapsed time: 3.216 ms.
+data width: 24978
+kdtree radius search
+total points: 24978
+radiussearch_octreeTimer:Elapsed time: 295.971 ms.
+radiussearch_kdtreeTimer:Elapsed time: 120.178 ms.
+24977
+radiussearch_gpu_octreeTimer:Elapsed time: 2.972 ms.
+data width: 24037
+kdtree radius search
+total points: 24037
+radiussearch_octreeTimer:Elapsed time: 306.929 ms.
+radiussearch_kdtreeTimer:Elapsed time: 128.292 ms.
+24036
+radiussearch_gpu_octreeTimer:Elapsed time: 3.419 ms.
+data width: 23337
+kdtree radius search
+total points: 23337
+radiussearch_octreeTimer:Elapsed time: 291.219 ms.
+radiussearch_kdtreeTimer:Elapsed time: 123.694 ms.
+23336
+radiussearch_gpu_octreeTimer:Elapsed time: 3.381 ms.
+data width: 19683
+kdtree radius search
+total points: 19683
+radiussearch_octreeTimer:Elapsed time: 211.733 ms.
+radiussearch_kdtreeTimer:Elapsed time: 80.663 ms.
+19682
+radiussearch_gpu_octreeTimer:Elapsed time: 2.704 ms.
+data width: 19739
+kdtree radius search
+total points: 19739
+radiussearch_octreeTimer:Elapsed time: 229.964 ms.
+radiussearch_kdtreeTimer:Elapsed time: 90.7 ms.
+19738
+radiussearch_gpu_octreeTimer:Elapsed time: 3.032 ms.
+data width: 20211
+kdtree radius search
+total points: 20211
+radiussearch_octreeTimer:Elapsed time: 298.292 ms.
+radiussearch_kdtreeTimer:Elapsed time: 125.628 ms.
+20210
+radiussearch_gpu_octreeTimer:Elapsed time: 2.901 ms.
+data width: 19678
+kdtree radius search
+total points: 19678
+radiussearch_octreeTimer:Elapsed time: 289.924 ms.
+radiussearch_kdtreeTimer:Elapsed time: 122.454 ms.
+19677
+radiussearch_gpu_octreeTimer:Elapsed time: 3.415 ms.
+data width: 19608
+kdtree radius search
+total points: 19608
+radiussearch_octreeTimer:Elapsed time: 236.434 ms.
+radiussearch_kdtreeTimer:Elapsed time: 95.711 ms.
+19607
+radiussearch_gpu_octreeTimer:Elapsed time: 2.637 ms.
+data width: 20544
+kdtree radius search
+total points: 20544
+radiussearch_octreeTimer:Elapsed time: 291.153 ms.
+radiussearch_kdtreeTimer:Elapsed time: 122.642 ms.
+20543
+radiussearch_gpu_octreeTimer:Elapsed time: 2.791 ms.
+data width: 23044
+kdtree radius search
+total points: 23044
+radiussearch_octreeTimer:Elapsed time: 411.648 ms.
+radiussearch_kdtreeTimer:Elapsed time: 186.571 ms.
+23043
+radiussearch_gpu_octreeTimer:Elapsed time: 3.794 ms.
+data width: 22329
+kdtree radius search
+total points: 22329
+radiussearch_octreeTimer:Elapsed time: 286.614 ms.
+radiussearch_kdtreeTimer:Elapsed time: 119.165 ms.
+22328
+radiussearch_gpu_octreeTimer:Elapsed time: 3.013 ms.
+data width: 22742
+kdtree radius search
+total points: 22742
+radiussearch_octreeTimer:Elapsed time: 318.62 ms.
+radiussearch_kdtreeTimer:Elapsed time: 133.657 ms.
+22741
+radiussearch_gpu_octreeTimer:Elapsed time: 2.728 ms.
+data width: 25861
+kdtree radius search
+total points: 25861
+radiussearch_octreeTimer:Elapsed time: 410.585 ms.
+radiussearch_kdtreeTimer:Elapsed time: 176.725 ms.
+25860
+radiussearch_gpu_octreeTimer:Elapsed time: 9.207 ms.
+data width: 24353
+kdtree radius search
+total points: 24353
+radiussearch_octreeTimer:Elapsed time: 305.9 ms.
+radiussearch_kdtreeTimer:Elapsed time: 127.607 ms.
+24352
+radiussearch_gpu_octreeTimer:Elapsed time: 3.113 ms.
+data width: 23407
+kdtree radius search
+total points: 23407
+radiussearch_octreeTimer:Elapsed time: 287.542 ms.
+radiussearch_kdtreeTimer:Elapsed time: 116.362 ms.
+23406
+radiussearch_gpu_octreeTimer:Elapsed time: 2.802 ms.
+data width: 21613
+kdtree radius search
+total points: 21613
+radiussearch_octreeTimer:Elapsed time: 268.727 ms.
+radiussearch_kdtreeTimer:Elapsed time: 106.905 ms.
+21612
+radiussearch_gpu_octreeTimer:Elapsed time: 2.764 ms.
+data width: 23975
+kdtree radius search
+total points: 23975
+radiussearch_octreeTimer:Elapsed time: 371.382 ms.
+radiussearch_kdtreeTimer:Elapsed time: 162.999 ms.
+23974
+radiussearch_gpu_octreeTimer:Elapsed time: 7.775 ms.
+data width: 22620
+kdtree radius search
+total points: 22620
+radiussearch_octreeTimer:Elapsed time: 339.634 ms.
+radiussearch_kdtreeTimer:Elapsed time: 139.631 ms.
+22619
+radiussearch_gpu_octreeTimer:Elapsed time: 3.705 ms.
+data width: 23844
+kdtree radius search
+total points: 23844
+radiussearch_octreeTimer:Elapsed time: 290.876 ms.
+radiussearch_kdtreeTimer:Elapsed time: 120.686 ms.
+23843
+radiussearch_gpu_octreeTimer:Elapsed time: 3.05 ms.
+data width: 21101
+kdtree radius search
+total points: 21101
+radiussearch_octreeTimer:Elapsed time: 263.217 ms.
+radiussearch_kdtreeTimer:Elapsed time: 107.107 ms.
+21100
+radiussearch_gpu_octreeTimer:Elapsed time: 3.381 ms.
+data width: 21601
+kdtree radius search
+total points: 21601
+radiussearch_octreeTimer:Elapsed time: 317.978 ms.
+radiussearch_kdtreeTimer:Elapsed time: 136.587 ms.
+21600
+radiussearch_gpu_octreeTimer:Elapsed time: 3.696 ms.
+data width: 21800
+kdtree radius search
+total points: 21800
+radiussearch_octreeTimer:Elapsed time: 238.301 ms.
+radiussearch_kdtreeTimer:Elapsed time: 93.42 ms.
+21799
+radiussearch_gpu_octreeTimer:Elapsed time: 2.797 ms.
+data width: 23134
+kdtree radius search
+total points: 23134
+radiussearch_octreeTimer:Elapsed time: 230.778 ms.
+radiussearch_kdtreeTimer:Elapsed time: 86.865 ms.
+23133
+radiussearch_gpu_octreeTimer:Elapsed time: 2.701 ms.
+data width: 24899
+kdtree radius search
+total points: 24899
+radiussearch_octreeTimer:Elapsed time: 321.298 ms.
+radiussearch_kdtreeTimer:Elapsed time: 133.26 ms.
+24898
+radiussearch_gpu_octreeTimer:Elapsed time: 3.019 ms.
+data width: 26123
+kdtree radius search
+total points: 26123
+radiussearch_octreeTimer:Elapsed time: 382.058 ms.
+radiussearch_kdtreeTimer:Elapsed time: 163.776 ms.
+26122
+radiussearch_gpu_octreeTimer:Elapsed time: 3.315 ms.
+data width: 24165
+kdtree radius search
+total points: 24165
+radiussearch_octreeTimer:Elapsed time: 243.054 ms.
+radiussearch_kdtreeTimer:Elapsed time: 92.344 ms.
+24164
+radiussearch_gpu_octreeTimer:Elapsed time: 2.508 ms.
+data width: 24303
+kdtree radius search
+total points: 24303
+radiussearch_octreeTimer:Elapsed time: 250.475 ms.
+radiussearch_kdtreeTimer:Elapsed time: 96.355 ms.
+24302
+radiussearch_gpu_octreeTimer:Elapsed time: 2.604 ms.
+data width: 24300
+kdtree radius search
+total points: 24300
+radiussearch_octreeTimer:Elapsed time: 268.32 ms.
+radiussearch_kdtreeTimer:Elapsed time: 101.66 ms.
+24299
+radiussearch_gpu_octreeTimer:Elapsed time: 2.933 ms.
+data width: 26566
+kdtree radius search
+total points: 26566
+radiussearch_octreeTimer:Elapsed time: 312.837 ms.
+radiussearch_kdtreeTimer:Elapsed time: 119.869 ms.
+26565
+radiussearch_gpu_octreeTimer:Elapsed time: 4.064 ms.
+data width: 26765
+kdtree radius search
+total points: 26765
+radiussearch_octreeTimer:Elapsed time: 358.302 ms.
+radiussearch_kdtreeTimer:Elapsed time: 141.702 ms.
+26764
+radiussearch_gpu_octreeTimer:Elapsed time: 4.015 ms.
+data width: 27400
+kdtree radius search
+total points: 27400
+radiussearch_octreeTimer:Elapsed time: 378.971 ms.
+radiussearch_kdtreeTimer:Elapsed time: 154.024 ms.
+27399
+radiussearch_gpu_octreeTimer:Elapsed time: 4.679 ms.
+data width: 28051
+kdtree radius search
+total points: 28051
+radiussearch_octreeTimer:Elapsed time: 469.287 ms.
+radiussearch_kdtreeTimer:Elapsed time: 206.575 ms.
+28050
+radiussearch_gpu_octreeTimer:Elapsed time: 5.137 ms.
+data width: 30168
+kdtree radius search
+total points: 30168
+radiussearch_octreeTimer:Elapsed time: 513.029 ms.
+radiussearch_kdtreeTimer:Elapsed time: 218.996 ms.
+30167
+radiussearch_gpu_octreeTimer:Elapsed time: 4.824 ms.
+data width: 31424
+kdtree radius search
+total points: 31424
+radiussearch_octreeTimer:Elapsed time: 631.702 ms.
+radiussearch_kdtreeTimer:Elapsed time: 287.729 ms.
+31423
+radiussearch_gpu_octreeTimer:Elapsed time: 4.901 ms.
+data width: 25779
+kdtree radius search
+total points: 25779
+radiussearch_octreeTimer:Elapsed time: 376.697 ms.
+radiussearch_kdtreeTimer:Elapsed time: 162.222 ms.
+25778
+radiussearch_gpu_octreeTimer:Elapsed time: 3.059 ms.
+data width: 24893
+kdtree radius search
+total points: 24893
+radiussearch_octreeTimer:Elapsed time: 314.61 ms.
+radiussearch_kdtreeTimer:Elapsed time: 128.845 ms.
+24892
+radiussearch_gpu_octreeTimer:Elapsed time: 2.786 ms.
+data width: 25601
+kdtree radius search
+total points: 25601
+radiussearch_octreeTimer:Elapsed time: 273.391 ms.
+radiussearch_kdtreeTimer:Elapsed time: 100.806 ms.
+25600
+radiussearch_gpu_octreeTimer:Elapsed time: 2.849 ms.
+data width: 25092
+kdtree radius search
+total points: 25092
+radiussearch_octreeTimer:Elapsed time: 305.856 ms.
+radiussearch_kdtreeTimer:Elapsed time: 112.022 ms.
+25091
+radiussearch_gpu_octreeTimer:Elapsed time: 3.168 ms.
+data width: 28735
+kdtree radius search
+total points: 28735
+radiussearch_octreeTimer:Elapsed time: 553.047 ms.
+radiussearch_kdtreeTimer:Elapsed time: 220.879 ms.
+28734
+radiussearch_gpu_octreeTimer:Elapsed time: 5.016 ms.
+data width: 39766
+kdtree radius search
+total points: 39766
+radiussearch_octreeTimer:Elapsed time: 1528.3 ms.
+radiussearch_kdtreeTimer:Elapsed time: 695.436 ms.
+39765
+radiussearch_gpu_octreeTimer:Elapsed time: 5.652 ms.
+data width: 44951
+kdtree radius search
+total points: 44951
+radiussearch_octreeTimer:Elapsed time: 1021.82 ms.
+radiussearch_kdtreeTimer:Elapsed time: 443.789 ms.
+44950
+radiussearch_gpu_octreeTimer:Elapsed time: 4.422 ms.
+data width: 41338
+kdtree radius search
+total points: 41338
+radiussearch_octreeTimer:Elapsed time: 874.306 ms.
+radiussearch_kdtreeTimer:Elapsed time: 380.736 ms.
+41337
+radiussearch_gpu_octreeTimer:Elapsed time: 3.763 ms.
+data width: 39133
+kdtree radius search
+total points: 39133
+radiussearch_octreeTimer:Elapsed time: 777.473 ms.
+radiussearch_kdtreeTimer:Elapsed time: 344.559 ms.
+39132
+radiussearch_gpu_octreeTimer:Elapsed time: 4.017 ms.
+data width: 37984
+kdtree radius search
+total points: 37984
+radiussearch_octreeTimer:Elapsed time: 995.595 ms.
+radiussearch_kdtreeTimer:Elapsed time: 491.695 ms.
+37983
+radiussearch_gpu_octreeTimer:Elapsed time: 6.105 ms.
+data width: 34770
+kdtree radius search
+total points: 34770
+radiussearch_octreeTimer:Elapsed time: 864.219 ms.
+radiussearch_kdtreeTimer:Elapsed time: 431.846 ms.
+34769
+radiussearch_gpu_octreeTimer:Elapsed time: 4.716 ms.
+data width: 35201
+kdtree radius search
+total points: 35201
+radiussearch_octreeTimer:Elapsed time: 890.222 ms.
+radiussearch_kdtreeTimer:Elapsed time: 454.65 ms.
+35200
+radiussearch_gpu_octreeTimer:Elapsed time: 4.773 ms.
+data width: 30676
+kdtree radius search
+total points: 30676
+radiussearch_octreeTimer:Elapsed time: 689.283 ms.
+radiussearch_kdtreeTimer:Elapsed time: 362.838 ms.
+30675
+radiussearch_gpu_octreeTimer:Elapsed time: 5.371 ms.
+data width: 28854
+kdtree radius search
+total points: 28854
+radiussearch_octreeTimer:Elapsed time: 645.325 ms.
+radiussearch_kdtreeTimer:Elapsed time: 338.831 ms.
+28853
+radiussearch_gpu_octreeTimer:Elapsed time: 5.259 ms.
+data width: 30173
+kdtree radius search
+total points: 30173
+radiussearch_octreeTimer:Elapsed time: 675.728 ms.
+radiussearch_kdtreeTimer:Elapsed time: 364.832 ms.
+30172
+radiussearch_gpu_octreeTimer:Elapsed time: 5.588 ms.
+data width: 31395
+kdtree radius search
+total points: 31395
+radiussearch_octreeTimer:Elapsed time: 728.098 ms.
+radiussearch_kdtreeTimer:Elapsed time: 363.985 ms.
+31394
+radiussearch_gpu_octreeTimer:Elapsed time: 5.668 ms.
+data width: 33865
+kdtree radius search
+total points: 33865
+radiussearch_octreeTimer:Elapsed time: 864.06 ms.
+radiussearch_kdtreeTimer:Elapsed time: 443.375 ms.
+33864
+radiussearch_gpu_octreeTimer:Elapsed time: 5.77 ms.
+data width: 33525
+kdtree radius search
+total points: 33525
+radiussearch_octreeTimer:Elapsed time: 744.547 ms.
+radiussearch_kdtreeTimer:Elapsed time: 378.507 ms.
+33524
+radiussearch_gpu_octreeTimer:Elapsed time: 4.019 ms.
+data width: 30075
+kdtree radius search
+total points: 30075
+radiussearch_octreeTimer:Elapsed time: 698.804 ms.
+radiussearch_kdtreeTimer:Elapsed time: 392.475 ms.
+30074
+radiussearch_gpu_octreeTimer:Elapsed time: 6.334 ms.
+data width: 26872
+kdtree radius search
+total points: 26872
+radiussearch_octreeTimer:Elapsed time: 242.256 ms.
+radiussearch_kdtreeTimer:Elapsed time: 91.23 ms.
+26871
+radiussearch_gpu_octreeTimer:Elapsed time: 3.753 ms.
+data width: 30390
+kdtree radius search
+total points: 30390
+radiussearch_octreeTimer:Elapsed time: 283.368 ms.
+radiussearch_kdtreeTimer:Elapsed time: 104.946 ms.
+30389
+radiussearch_gpu_octreeTimer:Elapsed time: 4.127 ms.
+data width: 32203
+kdtree radius search
+total points: 32203
+radiussearch_octreeTimer:Elapsed time: 298.847 ms.
+radiussearch_kdtreeTimer:Elapsed time: 106.86 ms.
+32202
+radiussearch_gpu_octreeTimer:Elapsed time: 4.269 ms.
+data width: 33087
+kdtree radius search
+total points: 33087
+radiussearch_octreeTimer:Elapsed time: 324.677 ms.
+radiussearch_kdtreeTimer:Elapsed time: 119.48 ms.
+33086
+radiussearch_gpu_octreeTimer:Elapsed time: 3.475 ms.
+data width: 33956
+kdtree radius search
+total points: 33956
+radiussearch_octreeTimer:Elapsed time: 395.088 ms.
+radiussearch_kdtreeTimer:Elapsed time: 146.884 ms.
+33955
+radiussearch_gpu_octreeTimer:Elapsed time: 3.334 ms.
+data width: 30565
+kdtree radius search
+total points: 30565
+radiussearch_octreeTimer:Elapsed time: 459.506 ms.
+radiussearch_kdtreeTimer:Elapsed time: 185.803 ms.
+30564
+radiussearch_gpu_octreeTimer:Elapsed time: 10.527 ms.
+data width: 30281
+kdtree radius search
+total points: 30281
+radiussearch_octreeTimer:Elapsed time: 572.618 ms.
+radiussearch_kdtreeTimer:Elapsed time: 245.812 ms.
+30280
+radiussearch_gpu_octreeTimer:Elapsed time: 4.916 ms.
+data width: 35049
+kdtree radius search
+total points: 35049
+radiussearch_octreeTimer:Elapsed time: 577.024 ms.
+radiussearch_kdtreeTimer:Elapsed time: 235.994 ms.
+35048
+radiussearch_gpu_octreeTimer:Elapsed time: 4 ms.
+data width: 33183
+kdtree radius search
+total points: 33183
+radiussearch_octreeTimer:Elapsed time: 565.771 ms.
+radiussearch_kdtreeTimer:Elapsed time: 232.143 ms.
+33182
+radiussearch_gpu_octreeTimer:Elapsed time: 3.754 ms.
+data width: 32015
+kdtree radius search
+total points: 32015
+radiussearch_octreeTimer:Elapsed time: 577.731 ms.
+radiussearch_kdtreeTimer:Elapsed time: 246.891 ms.
+32014
+radiussearch_gpu_octreeTimer:Elapsed time: 4.919 ms.
+data width: 32115
+kdtree radius search
+total points: 32115
+radiussearch_octreeTimer:Elapsed time: 595.443 ms.
+radiussearch_kdtreeTimer:Elapsed time: 245.257 ms.
+32114
+radiussearch_gpu_octreeTimer:Elapsed time: 4.699 ms.
+data width: 34440
+kdtree radius search
+total points: 34440
+radiussearch_octreeTimer:Elapsed time: 752.289 ms.
+radiussearch_kdtreeTimer:Elapsed time: 362.94 ms.
+34439
+radiussearch_gpu_octreeTimer:Elapsed time: 6.355 ms.
+data width: 34798
+kdtree radius search
+total points: 34798
+radiussearch_octreeTimer:Elapsed time: 638.521 ms.
+radiussearch_kdtreeTimer:Elapsed time: 291.01 ms.
+34797
+radiussearch_gpu_octreeTimer:Elapsed time: 3.708 ms.
+data width: 33825
+kdtree radius search
+total points: 33825
+radiussearch_octreeTimer:Elapsed time: 641.618 ms.
+radiussearch_kdtreeTimer:Elapsed time: 256.012 ms.
+33824
+radiussearch_gpu_octreeTimer:Elapsed time: 3.977 ms.
+data width: 35339
+kdtree radius search
+total points: 35339
+radiussearch_octreeTimer:Elapsed time: 661.697 ms.
+radiussearch_kdtreeTimer:Elapsed time: 273.933 ms.
+35338
+radiussearch_gpu_octreeTimer:Elapsed time: 4.184 ms.
+data width: 39574
+kdtree radius search
+total points: 39574
+radiussearch_octreeTimer:Elapsed time: 748.447 ms.
+radiussearch_kdtreeTimer:Elapsed time: 305.299 ms.
+39573
+radiussearch_gpu_octreeTimer:Elapsed time: 5.228 ms.
+data width: 40483
+kdtree radius search
+total points: 40483
+radiussearch_octreeTimer:Elapsed time: 906.978 ms.
+radiussearch_kdtreeTimer:Elapsed time: 376.74 ms.
+40482
+radiussearch_gpu_octreeTimer:Elapsed time: 4.691 ms.
+data width: 40632
+kdtree radius search
+total points: 40632
+radiussearch_octreeTimer:Elapsed time: 1836.19 ms.
+radiussearch_kdtreeTimer:Elapsed time: 984.731 ms.
+40631
+radiussearch_gpu_octreeTimer:Elapsed time: 7.408 ms.
+data width: 23675
+kdtree radius search
+total points: 23675
+radiussearch_octreeTimer:Elapsed time: 277.248 ms.
+radiussearch_kdtreeTimer:Elapsed time: 107.084 ms.
+23674
+radiussearch_gpu_octreeTimer:Elapsed time: 2.934 ms.
+data width: 23790
+kdtree radius search
+total points: 23790
+radiussearch_octreeTimer:Elapsed time: 298.981 ms.
+radiussearch_kdtreeTimer:Elapsed time: 117.508 ms.
+23789
+radiussearch_gpu_octreeTimer:Elapsed time: 3.228 ms.
+data width: 23357
+kdtree radius search
+total points: 23357
+radiussearch_octreeTimer:Elapsed time: 377.675 ms.
+radiussearch_kdtreeTimer:Elapsed time: 159.146 ms.
+23356
+radiussearch_gpu_octreeTimer:Elapsed time: 3.632 ms.
+data width: 26110
+kdtree radius search
+total points: 26110
+radiussearch_octreeTimer:Elapsed time: 481.777 ms.
+radiussearch_kdtreeTimer:Elapsed time: 230.098 ms.
+26109
+radiussearch_gpu_octreeTimer:Elapsed time: 4.176 ms.
+data width: 17279
+kdtree radius search
+total points: 17279
+radiussearch_octreeTimer:Elapsed time: 205.474 ms.
+radiussearch_kdtreeTimer:Elapsed time: 90.399 ms.
+17278
+radiussearch_gpu_octreeTimer:Elapsed time: 2.561 ms.
+data width: 20238
+kdtree radius search
+total points: 20238
+radiussearch_octreeTimer:Elapsed time: 220.26 ms.
+radiussearch_kdtreeTimer:Elapsed time: 86.106 ms.
+20237
+radiussearch_gpu_octreeTimer:Elapsed time: 2.275 ms.
+data width: 19573
+kdtree radius search
+total points: 19573
+radiussearch_octreeTimer:Elapsed time: 227.456 ms.
+radiussearch_kdtreeTimer:Elapsed time: 87.62 ms.
+19572
+radiussearch_gpu_octreeTimer:Elapsed time: 2.476 ms.
+data width: 21688
+kdtree radius search
+total points: 21688
+radiussearch_octreeTimer:Elapsed time: 277.739 ms.
+radiussearch_kdtreeTimer:Elapsed time: 108.524 ms.
+21687
+radiussearch_gpu_octreeTimer:Elapsed time: 2.822 ms.
+data width: 23825
+kdtree radius search
+total points: 23825
+radiussearch_octreeTimer:Elapsed time: 358.242 ms.
+radiussearch_kdtreeTimer:Elapsed time: 149.38 ms.
+23824
+radiussearch_gpu_octreeTimer:Elapsed time: 3.074 ms.
+data width: 24445
+kdtree radius search
+total points: 24445
+radiussearch_octreeTimer:Elapsed time: 491.207 ms.
+radiussearch_kdtreeTimer:Elapsed time: 217.471 ms.
+24444
+radiussearch_gpu_octreeTimer:Elapsed time: 3.254 ms.
+data width: 24973
+kdtree radius search
+total points: 24973
+radiussearch_octreeTimer:Elapsed time: 789.409 ms.
+radiussearch_kdtreeTimer:Elapsed time: 360.055 ms.
+24972
+radiussearch_gpu_octreeTimer:Elapsed time: 4.939 ms.
+data width: 24239
+kdtree radius search
+total points: 24239
+radiussearch_octreeTimer:Elapsed time: 810.184 ms.
+radiussearch_kdtreeTimer:Elapsed time: 373.81 ms.
+24238
+radiussearch_gpu_octreeTimer:Elapsed time: 5.591 ms.
+data width: 25235
+kdtree radius search
+total points: 25235
+radiussearch_octreeTimer:Elapsed time: 383.91 ms.
+radiussearch_kdtreeTimer:Elapsed time: 150.462 ms.
+25234
+radiussearch_gpu_octreeTimer:Elapsed time: 4.368 ms.
+data width: 24127
+kdtree radius search
+total points: 24127
+radiussearch_octreeTimer:Elapsed time: 393.672 ms.
+radiussearch_kdtreeTimer:Elapsed time: 174.379 ms.
+24126
+radiussearch_gpu_octreeTimer:Elapsed time: 3.093 ms.
+data width: 27433
+kdtree radius search
+total points: 27433
+radiussearch_octreeTimer:Elapsed time: 423.387 ms.
+radiussearch_kdtreeTimer:Elapsed time: 177.107 ms.
+27432
+radiussearch_gpu_octreeTimer:Elapsed time: 4.337 ms.
+data width: 28461
+kdtree radius search
+total points: 28461
+radiussearch_octreeTimer:Elapsed time: 424.756 ms.
+radiussearch_kdtreeTimer:Elapsed time: 179.342 ms.
+28460
+radiussearch_gpu_octreeTimer:Elapsed time: 4.345 ms.
+data width: 27021
+kdtree radius search
+total points: 27021
+radiussearch_octreeTimer:Elapsed time: 332.055 ms.
+radiussearch_kdtreeTimer:Elapsed time: 130.001 ms.
+27020
+radiussearch_gpu_octreeTimer:Elapsed time: 4.072 ms.
+data width: 25716
+kdtree radius search
+total points: 25716
+radiussearch_octreeTimer:Elapsed time: 288.948 ms.
+radiussearch_kdtreeTimer:Elapsed time: 107.823 ms.
+25715
+radiussearch_gpu_octreeTimer:Elapsed time: 2.986 ms.
+data width: 26020
+kdtree radius search
+total points: 26020
+radiussearch_octreeTimer:Elapsed time: 310.902 ms.
+radiussearch_kdtreeTimer:Elapsed time: 119.486 ms.
+26019
+radiussearch_gpu_octreeTimer:Elapsed time: 3.292 ms.
+data width: 27206
+kdtree radius search
+total points: 27206
+radiussearch_octreeTimer:Elapsed time: 383.401 ms.
+radiussearch_kdtreeTimer:Elapsed time: 149.767 ms.
+27205
+radiussearch_gpu_octreeTimer:Elapsed time: 4.888 ms.
+data width: 32001
+kdtree radius search
+total points: 32001
+radiussearch_octreeTimer:Elapsed time: 621.28 ms.
+radiussearch_kdtreeTimer:Elapsed time: 249.019 ms.
+32000
+radiussearch_gpu_octreeTimer:Elapsed time: 6.7 ms.
+data width: 37445
+kdtree radius search
+total points: 37445
+radiussearch_octreeTimer:Elapsed time: 666.221 ms.
+radiussearch_kdtreeTimer:Elapsed time: 272.994 ms.
+37444
+radiussearch_gpu_octreeTimer:Elapsed time: 3.701 ms.
+data width: 39583
+kdtree radius search
+total points: 39583
+radiussearch_octreeTimer:Elapsed time: 766.235 ms.
+radiussearch_kdtreeTimer:Elapsed time: 323.42 ms.
+39582
+radiussearch_gpu_octreeTimer:Elapsed time: 3.802 ms.
+data width: 38642
+kdtree radius search
+total points: 38642
+radiussearch_octreeTimer:Elapsed time: 717.274 ms.
+radiussearch_kdtreeTimer:Elapsed time: 295.32 ms.
+38641
+radiussearch_gpu_octreeTimer:Elapsed time: 3.736 ms.
+data width: 37046
+kdtree radius search
+total points: 37046
+radiussearch_octreeTimer:Elapsed time: 951.314 ms.
+radiussearch_kdtreeTimer:Elapsed time: 401.731 ms.
+37045
+radiussearch_gpu_octreeTimer:Elapsed time: 4.907 ms.
+data width: 38196
+kdtree radius search
+total points: 38196
+radiussearch_octreeTimer:Elapsed time: 887.147 ms.
+radiussearch_kdtreeTimer:Elapsed time: 347.55 ms.
+38195
+radiussearch_gpu_octreeTimer:Elapsed time: 4.245 ms.
+data width: 42865
+kdtree radius search
+total points: 42865
+radiussearch_octreeTimer:Elapsed time: 1540.67 ms.
+radiussearch_kdtreeTimer:Elapsed time: 664.111 ms.
+42864
+radiussearch_gpu_octreeTimer:Elapsed time: 7.188 ms.
+data width: 35792
+kdtree radius search
+total points: 35792
+radiussearch_octreeTimer:Elapsed time: 1035.97 ms.
+radiussearch_kdtreeTimer:Elapsed time: 480.995 ms.
+35791
+radiussearch_gpu_octreeTimer:Elapsed time: 4.599 ms.
+data width: 30173
+kdtree radius search
+total points: 30173
+radiussearch_octreeTimer:Elapsed time: 414.409 ms.
+radiussearch_kdtreeTimer:Elapsed time: 165.397 ms.
+30172
+radiussearch_gpu_octreeTimer:Elapsed time: 4.466 ms.
+data width: 29850
+kdtree radius search
+total points: 29850
+radiussearch_octreeTimer:Elapsed time: 362.008 ms.
+radiussearch_kdtreeTimer:Elapsed time: 149.749 ms.
+29849
+radiussearch_gpu_octreeTimer:Elapsed time: 3.84 ms.
+data width: 28372
+kdtree radius search
+total points: 28372
+radiussearch_octreeTimer:Elapsed time: 351.301 ms.
+radiussearch_kdtreeTimer:Elapsed time: 143.421 ms.
+28371
+radiussearch_gpu_octreeTimer:Elapsed time: 3.737 ms.
+data width: 30381
+kdtree radius search
+total points: 30381
+radiussearch_octreeTimer:Elapsed time: 359.533 ms.
+radiussearch_kdtreeTimer:Elapsed time: 144.339 ms.
+30380
+radiussearch_gpu_octreeTimer:Elapsed time: 3.984 ms.
+data width: 28782
+kdtree radius search
+total points: 28782
+radiussearch_octreeTimer:Elapsed time: 310.091 ms.
+radiussearch_kdtreeTimer:Elapsed time: 121.913 ms.
+28781
+radiussearch_gpu_octreeTimer:Elapsed time: 3.836 ms.
+data width: 30089
+kdtree radius search
+total points: 30089
+radiussearch_octreeTimer:Elapsed time: 320.048 ms.
+radiussearch_kdtreeTimer:Elapsed time: 122.302 ms.
+30088
+radiussearch_gpu_octreeTimer:Elapsed time: 3.952 ms.
+data width: 25818
+kdtree radius search
+total points: 25818
+radiussearch_octreeTimer:Elapsed time: 298.026 ms.
+radiussearch_kdtreeTimer:Elapsed time: 118.029 ms.
+25817
+radiussearch_gpu_octreeTimer:Elapsed time: 2.849 ms.
+data width: 25519
+kdtree radius search
+total points: 25519
+radiussearch_octreeTimer:Elapsed time: 277.971 ms.
+radiussearch_kdtreeTimer:Elapsed time: 108.167 ms.
+25518
+radiussearch_gpu_octreeTimer:Elapsed time: 8.47 ms.
+data width: 29379
+kdtree radius search
+total points: 29379
+radiussearch_octreeTimer:Elapsed time: 286.874 ms.
+radiussearch_kdtreeTimer:Elapsed time: 112.214 ms.
+29378
+radiussearch_gpu_octreeTimer:Elapsed time: 3.92 ms.
+data width: 29412
+kdtree radius search
+total points: 29412
+radiussearch_octreeTimer:Elapsed time: 314.923 ms.
+radiussearch_kdtreeTimer:Elapsed time: 126.066 ms.
+29411
+radiussearch_gpu_octreeTimer:Elapsed time: 3.914 ms.
+data width: 26591
+kdtree radius search
+total points: 26591
+radiussearch_octreeTimer:Elapsed time: 252.772 ms.
+radiussearch_kdtreeTimer:Elapsed time: 101.66 ms.
+26590
+radiussearch_gpu_octreeTimer:Elapsed time: 3.491 ms.
+data width: 26404
+kdtree radius search
+total points: 26404
+radiussearch_octreeTimer:Elapsed time: 266.126 ms.
+radiussearch_kdtreeTimer:Elapsed time: 108.682 ms.
+26403
+radiussearch_gpu_octreeTimer:Elapsed time: 3.732 ms.
+data width: 27722
+kdtree radius search
+total points: 27722
+radiussearch_octreeTimer:Elapsed time: 294.328 ms.
+radiussearch_kdtreeTimer:Elapsed time: 118.706 ms.
+27721
+radiussearch_gpu_octreeTimer:Elapsed time: 3.779 ms.
+data width: 27954
+kdtree radius search
+total points: 27954
+radiussearch_octreeTimer:Elapsed time: 345.78 ms.
+radiussearch_kdtreeTimer:Elapsed time: 144.785 ms.
+27953
+radiussearch_gpu_octreeTimer:Elapsed time: 4.112 ms.
+data width: 29031
+kdtree radius search
+total points: 29031
+radiussearch_octreeTimer:Elapsed time: 394.271 ms.
+radiussearch_kdtreeTimer:Elapsed time: 165.664 ms.
+29030
+radiussearch_gpu_octreeTimer:Elapsed time: 4.574 ms.
+data width: 30272
+kdtree radius search
+total points: 30272
+radiussearch_octreeTimer:Elapsed time: 329.313 ms.
+radiussearch_kdtreeTimer:Elapsed time: 130.584 ms.
+30271
+radiussearch_gpu_octreeTimer:Elapsed time: 4.588 ms.
+data width: 28466
+kdtree radius search
+total points: 28466
+radiussearch_octreeTimer:Elapsed time: 301.905 ms.
+radiussearch_kdtreeTimer:Elapsed time: 116.528 ms.
+28465
+radiussearch_gpu_octreeTimer:Elapsed time: 3.705 ms.
+data width: 27326
+kdtree radius search
+total points: 27326
+radiussearch_octreeTimer:Elapsed time: 311.041 ms.
+radiussearch_kdtreeTimer:Elapsed time: 130.377 ms.
+27325
+radiussearch_gpu_octreeTimer:Elapsed time: 3.909 ms.
+data width: 26039
+kdtree radius search
+total points: 26039
+radiussearch_octreeTimer:Elapsed time: 251.34 ms.
+radiussearch_kdtreeTimer:Elapsed time: 95.507 ms.
+26038
+radiussearch_gpu_octreeTimer:Elapsed time: 2.548 ms.
+data width: 26330
+kdtree radius search
+total points: 26330
+radiussearch_octreeTimer:Elapsed time: 281.06 ms.
+radiussearch_kdtreeTimer:Elapsed time: 107.532 ms.
+26329
+radiussearch_gpu_octreeTimer:Elapsed time: 3.819 ms.
+data width: 26041
+kdtree radius search
+total points: 26041
+radiussearch_octreeTimer:Elapsed time: 299.724 ms.
+radiussearch_kdtreeTimer:Elapsed time: 115.537 ms.
+26040
+radiussearch_gpu_octreeTimer:Elapsed time: 2.709 ms.
+data width: 27850
+kdtree radius search
+total points: 27850
+radiussearch_octreeTimer:Elapsed time: 370.769 ms.
+radiussearch_kdtreeTimer:Elapsed time: 140.236 ms.
+27849
+radiussearch_gpu_octreeTimer:Elapsed time: 4.014 ms.
+data width: 29187
+kdtree radius search
+total points: 29187
+radiussearch_octreeTimer:Elapsed time: 467.318 ms.
+radiussearch_kdtreeTimer:Elapsed time: 180.258 ms.
+29186
+radiussearch_gpu_octreeTimer:Elapsed time: 4.411 ms.
+data width: 30374
+kdtree radius search
+total points: 30374
+radiussearch_octreeTimer:Elapsed time: 526.493 ms.
+radiussearch_kdtreeTimer:Elapsed time: 211.362 ms.
+30373
+radiussearch_gpu_octreeTimer:Elapsed time: 4.591 ms.
+data width: 35108
+kdtree radius search
+total points: 35108
+radiussearch_octreeTimer:Elapsed time: 878.169 ms.
+radiussearch_kdtreeTimer:Elapsed time: 390.106 ms.
+35107
+radiussearch_gpu_octreeTimer:Elapsed time: 4.619 ms.
+data width: 33978
+kdtree radius search
+total points: 33978
+radiussearch_octreeTimer:Elapsed time: 986.092 ms.
+radiussearch_kdtreeTimer:Elapsed time: 477.494 ms.
+33977
+radiussearch_gpu_octreeTimer:Elapsed time: 4.138 ms.
+data width: 39697
+kdtree radius search
+total points: 39697
+radiussearch_octreeTimer:Elapsed time: 2214.49 ms.
+radiussearch_kdtreeTimer:Elapsed time: 1665.53 ms.
+39696
+radiussearch_gpu_octreeTimer:Elapsed time: 7.211 ms.
+data width: 34258
+kdtree radius search
+total points: 34258
+radiussearch_octreeTimer:Elapsed time: 601.221 ms.
+radiussearch_kdtreeTimer:Elapsed time: 275.992 ms.
+34257
+radiussearch_gpu_octreeTimer:Elapsed time: 3.439 ms.
+data width: 28541
+kdtree radius search
+total points: 28541
+radiussearch_octreeTimer:Elapsed time: 450.608 ms.
+radiussearch_kdtreeTimer:Elapsed time: 190.504 ms.
+28540
+radiussearch_gpu_octreeTimer:Elapsed time: 4.002 ms.
+data width: 25434
+kdtree radius search
+total points: 25434
+radiussearch_octreeTimer:Elapsed time: 467.717 ms.
+radiussearch_kdtreeTimer:Elapsed time: 197.87 ms.
+25433
+radiussearch_gpu_octreeTimer:Elapsed time: 3.097 ms.
+data width: 22905
+kdtree radius search
+total points: 22905
+radiussearch_octreeTimer:Elapsed time: 354.12 ms.
+radiussearch_kdtreeTimer:Elapsed time: 155.437 ms.
+22904
+radiussearch_gpu_octreeTimer:Elapsed time: 2.708 ms.
+data width: 22494
+kdtree radius search
+total points: 22494
+radiussearch_octreeTimer:Elapsed time: 358.888 ms.
+radiussearch_kdtreeTimer:Elapsed time: 150.539 ms.
+22493
+radiussearch_gpu_octreeTimer:Elapsed time: 2.658 ms.
+data width: 23148
+kdtree radius search
+total points: 23148
+radiussearch_octreeTimer:Elapsed time: 389.723 ms.
+radiussearch_kdtreeTimer:Elapsed time: 161.544 ms.
+23147
+radiussearch_gpu_octreeTimer:Elapsed time: 2.829 ms.
+data width: 25014
+kdtree radius search
+total points: 25014
+radiussearch_octreeTimer:Elapsed time: 364.021 ms.
+radiussearch_kdtreeTimer:Elapsed time: 149.172 ms.
+25013
+radiussearch_gpu_octreeTimer:Elapsed time: 3.356 ms.
+data width: 18960
+kdtree radius search
+total points: 18960
+radiussearch_octreeTimer:Elapsed time: 233.374 ms.
+radiussearch_kdtreeTimer:Elapsed time: 98.887 ms.
+18959
+radiussearch_gpu_octreeTimer:Elapsed time: 2.817 ms.
+data width: 20272
+kdtree radius search
+total points: 20272
+radiussearch_octreeTimer:Elapsed time: 189.347 ms.
+radiussearch_kdtreeTimer:Elapsed time: 79.54 ms.
+20271
+radiussearch_gpu_octreeTimer:Elapsed time: 2.535 ms.
+data width: 20383
+kdtree radius search
+total points: 20383
+radiussearch_octreeTimer:Elapsed time: 169.479 ms.
+radiussearch_kdtreeTimer:Elapsed time: 69.358 ms.
+20382
+radiussearch_gpu_octreeTimer:Elapsed time: 2.232 ms.
+data width: 21272
+kdtree radius search
+total points: 21272
+radiussearch_octreeTimer:Elapsed time: 185.467 ms.
+radiussearch_kdtreeTimer:Elapsed time: 74.963 ms.
+21271
+radiussearch_gpu_octreeTimer:Elapsed time: 2.26 ms.
+data width: 22149
+kdtree radius search
+total points: 22149
+radiussearch_octreeTimer:Elapsed time: 210.605 ms.
+radiussearch_kdtreeTimer:Elapsed time: 86.666 ms.
+22148
+radiussearch_gpu_octreeTimer:Elapsed time: 2.415 ms.
+data width: 23920
+kdtree radius search
+total points: 23920
+radiussearch_octreeTimer:Elapsed time: 235.307 ms.
+radiussearch_kdtreeTimer:Elapsed time: 94.991 ms.
+23919
+radiussearch_gpu_octreeTimer:Elapsed time: 2.372 ms.
+data width: 24510
+kdtree radius search
+total points: 24510
+radiussearch_octreeTimer:Elapsed time: 275.834 ms.
+radiussearch_kdtreeTimer:Elapsed time: 115.845 ms.
+24509
+radiussearch_gpu_octreeTimer:Elapsed time: 2.806 ms.
+data width: 29844
+kdtree radius search
+total points: 29844
+radiussearch_octreeTimer:Elapsed time: 230.555 ms.
+radiussearch_kdtreeTimer:Elapsed time: 85.087 ms.
+29843
+radiussearch_gpu_octreeTimer:Elapsed time: 4.874 ms.
+data width: 27114
+kdtree radius search
+total points: 27114
+radiussearch_octreeTimer:Elapsed time: 302.272 ms.
+radiussearch_kdtreeTimer:Elapsed time: 119.612 ms.
+27113
+radiussearch_gpu_octreeTimer:Elapsed time: 3.637 ms.
+data width: 27869
+kdtree radius search
+total points: 27869
+radiussearch_octreeTimer:Elapsed time: 322.434 ms.
+radiussearch_kdtreeTimer:Elapsed time: 127.603 ms.
+27868
+radiussearch_gpu_octreeTimer:Elapsed time: 5.586 ms.
+data width: 27276
+kdtree radius search
+total points: 27276
+radiussearch_octreeTimer:Elapsed time: 343.508 ms.
+radiussearch_kdtreeTimer:Elapsed time: 133.928 ms.
+27275
+radiussearch_gpu_octreeTimer:Elapsed time: 3.858 ms.
+data width: 27137
+kdtree radius search
+total points: 27137
+radiussearch_octreeTimer:Elapsed time: 396.347 ms.
+radiussearch_kdtreeTimer:Elapsed time: 155.978 ms.
+27136
+radiussearch_gpu_octreeTimer:Elapsed time: 3.934 ms.
+data width: 24376
+kdtree radius search
+total points: 24376
+radiussearch_octreeTimer:Elapsed time: 370.049 ms.
+radiussearch_kdtreeTimer:Elapsed time: 151.544 ms.
+24375
+radiussearch_gpu_octreeTimer:Elapsed time: 3.201 ms.
+data width: 22072
+kdtree radius search
+total points: 22072
+radiussearch_octreeTimer:Elapsed time: 326.908 ms.
+radiussearch_kdtreeTimer:Elapsed time: 131.747 ms.
+22071
+radiussearch_gpu_octreeTimer:Elapsed time: 3.595 ms.
+data width: 20136
+kdtree radius search
+total points: 20136
+radiussearch_octreeTimer:Elapsed time: 253.799 ms.
+radiussearch_kdtreeTimer:Elapsed time: 92.991 ms.
+20135
+radiussearch_gpu_octreeTimer:Elapsed time: 2.652 ms.
+data width: 20484
+kdtree radius search
+total points: 20484
+radiussearch_octreeTimer:Elapsed time: 287.002 ms.
+radiussearch_kdtreeTimer:Elapsed time: 110.562 ms.
+20483
+radiussearch_gpu_octreeTimer:Elapsed time: 2.853 ms.
+data width: 22530
+kdtree radius search
+total points: 22530
+radiussearch_octreeTimer:Elapsed time: 379.638 ms.
+radiussearch_kdtreeTimer:Elapsed time: 149.136 ms.
+22529
+radiussearch_gpu_octreeTimer:Elapsed time: 3.242 ms.
+data width: 22805
+kdtree radius search
+total points: 22805
+radiussearch_octreeTimer:Elapsed time: 309.708 ms.
+radiussearch_kdtreeTimer:Elapsed time: 119.669 ms.
+22804
+radiussearch_gpu_octreeTimer:Elapsed time: 3.715 ms.
+data width: 30772
+kdtree radius search
+total points: 30772
+radiussearch_octreeTimer:Elapsed time: 473.03 ms.
+radiussearch_kdtreeTimer:Elapsed time: 185.555 ms.
+30771
+radiussearch_gpu_octreeTimer:Elapsed time: 5.279 ms.
+data width: 34105
+kdtree radius search
+total points: 34105
+radiussearch_octreeTimer:Elapsed time: 583.747 ms.
+radiussearch_kdtreeTimer:Elapsed time: 244.599 ms.
+34104
+radiussearch_gpu_octreeTimer:Elapsed time: 4.284 ms.
+data width: 25076
+kdtree radius search
+total points: 25076
+radiussearch_octreeTimer:Elapsed time: 188.204 ms.
+radiussearch_kdtreeTimer:Elapsed time: 64.414 ms.
+25075
+radiussearch_gpu_octreeTimer:Elapsed time: 2.439 ms.
+data width: 31677
+kdtree radius search
+total points: 31677
+radiussearch_octreeTimer:Elapsed time: 315.289 ms.
+radiussearch_kdtreeTimer:Elapsed time: 110.489 ms.
+31676
+radiussearch_gpu_octreeTimer:Elapsed time: 3.936 ms.
+data width: 30105
+kdtree radius search
+total points: 30105
+radiussearch_octreeTimer:Elapsed time: 337.103 ms.
+radiussearch_kdtreeTimer:Elapsed time: 130.939 ms.
+30104
+radiussearch_gpu_octreeTimer:Elapsed time: 4.013 ms.
+data width: 33736
+kdtree radius search
+total points: 33736
+radiussearch_octreeTimer:Elapsed time: 468.191 ms.
+radiussearch_kdtreeTimer:Elapsed time: 181.382 ms.
+33735
+radiussearch_gpu_octreeTimer:Elapsed time: 3.875 ms.
+data width: 23298
+kdtree radius search
+total points: 23298
+radiussearch_octreeTimer:Elapsed time: 228.529 ms.
+radiussearch_kdtreeTimer:Elapsed time: 88.546 ms.
+23297
+radiussearch_gpu_octreeTimer:Elapsed time: 2.703 ms.
+data width: 25585
+kdtree radius search
+total points: 25585
+radiussearch_octreeTimer:Elapsed time: 350.625 ms.
+radiussearch_kdtreeTimer:Elapsed time: 144.014 ms.
+25584
+radiussearch_gpu_octreeTimer:Elapsed time: 4.048 ms.
+data width: 24122
+kdtree radius search
+total points: 24122
+radiussearch_octreeTimer:Elapsed time: 388.819 ms.
+radiussearch_kdtreeTimer:Elapsed time: 168.321 ms.
+24121
+radiussearch_gpu_octreeTimer:Elapsed time: 4.529 ms.
+data width: 24030
+kdtree radius search
+total points: 24030
+radiussearch_octreeTimer:Elapsed time: 552.679 ms.
+radiussearch_kdtreeTimer:Elapsed time: 272.629 ms.
+24029
+radiussearch_gpu_octreeTimer:Elapsed time: 5.315 ms.
+data width: 22366
+kdtree radius search
+total points: 22366
+radiussearch_octreeTimer:Elapsed time: 384.706 ms.
+radiussearch_kdtreeTimer:Elapsed time: 168.09 ms.
+22365
+radiussearch_gpu_octreeTimer:Elapsed time: 3.38 ms.
+data width: 25025
+kdtree radius search
+total points: 25025
+radiussearch_octreeTimer:Elapsed time: 379.693 ms.
+radiussearch_kdtreeTimer:Elapsed time: 168.456 ms.
+25024
+radiussearch_gpu_octreeTimer:Elapsed time: 3.086 ms.
+data width: 23639
+kdtree radius search
+total points: 23639
+radiussearch_octreeTimer:Elapsed time: 340.139 ms.
+radiussearch_kdtreeTimer:Elapsed time: 157.643 ms.
+23638
+radiussearch_gpu_octreeTimer:Elapsed time: 3.083 ms.
+data width: 24699
+kdtree radius search
+total points: 24699
+radiussearch_octreeTimer:Elapsed time: 377.707 ms.
+radiussearch_kdtreeTimer:Elapsed time: 167.676 ms.
+24698
+radiussearch_gpu_octreeTimer:Elapsed time: 3.411 ms.
+data width: 21165
+kdtree radius search
+total points: 21165
+radiussearch_octreeTimer:Elapsed time: 403.234 ms.
+radiussearch_kdtreeTimer:Elapsed time: 188.242 ms.
+21164
+radiussearch_gpu_octreeTimer:Elapsed time: 3.934 ms.
+data width: 22678
+kdtree radius search
+total points: 22678
+radiussearch_octreeTimer:Elapsed time: 352.758 ms.
+radiussearch_kdtreeTimer:Elapsed time: 152.952 ms.
+22677
+radiussearch_gpu_octreeTimer:Elapsed time: 2.912 ms.
+data width: 22648
+kdtree radius search
+total points: 22648
+radiussearch_octreeTimer:Elapsed time: 349.19 ms.
+radiussearch_kdtreeTimer:Elapsed time: 152.676 ms.
+22647
+radiussearch_gpu_octreeTimer:Elapsed time: 3.193 ms.
+data width: 22125
+kdtree radius search
+total points: 22125
+radiussearch_octreeTimer:Elapsed time: 331.265 ms.
+radiussearch_kdtreeTimer:Elapsed time: 143.176 ms.
+22124
+radiussearch_gpu_octreeTimer:Elapsed time: 3.118 ms.
+data width: 21238
+kdtree radius search
+total points: 21238
+radiussearch_octreeTimer:Elapsed time: 296.834 ms.
+radiussearch_kdtreeTimer:Elapsed time: 125.267 ms.
+21237
+radiussearch_gpu_octreeTimer:Elapsed time: 2.992 ms.
+data width: 22210
+kdtree radius search
+total points: 22210
+radiussearch_octreeTimer:Elapsed time: 353.056 ms.
+radiussearch_kdtreeTimer:Elapsed time: 152.112 ms.
+22209
+radiussearch_gpu_octreeTimer:Elapsed time: 2.982 ms.
+data width: 22410
+kdtree radius search
+total points: 22410
+radiussearch_octreeTimer:Elapsed time: 406.602 ms.
+radiussearch_kdtreeTimer:Elapsed time: 164.495 ms.
+22409
+radiussearch_gpu_octreeTimer:Elapsed time: 3.185 ms.
+data width: 22014
+kdtree radius search
+total points: 22014
+radiussearch_octreeTimer:Elapsed time: 382.579 ms.
+radiussearch_kdtreeTimer:Elapsed time: 148.544 ms.
+22013
+radiussearch_gpu_octreeTimer:Elapsed time: 3.028 ms.
+data width: 23198
+kdtree radius search
+total points: 23198
+radiussearch_octreeTimer:Elapsed time: 423.205 ms.
+radiussearch_kdtreeTimer:Elapsed time: 167.866 ms.
+23197
+radiussearch_gpu_octreeTimer:Elapsed time: 3.237 ms.
+data width: 21163
+kdtree radius search
+total points: 21163
+radiussearch_octreeTimer:Elapsed time: 344.763 ms.
+radiussearch_kdtreeTimer:Elapsed time: 134.528 ms.
+21162
+radiussearch_gpu_octreeTimer:Elapsed time: 3.234 ms.
+data width: 21026
+kdtree radius search
+total points: 21026
+radiussearch_octreeTimer:Elapsed time: 242.511 ms.
+radiussearch_kdtreeTimer:Elapsed time: 93.937 ms.
+21025
+radiussearch_gpu_octreeTimer:Elapsed time: 2.732 ms.
+data width: 16435
+kdtree radius search
+total points: 16435
+radiussearch_octreeTimer:Elapsed time: 204.903 ms.
+radiussearch_kdtreeTimer:Elapsed time: 82.087 ms.
+16434
+radiussearch_gpu_octreeTimer:Elapsed time: 2.845 ms.
+data width: 16739
+kdtree radius search
+total points: 16739
+radiussearch_octreeTimer:Elapsed time: 218.431 ms.
+radiussearch_kdtreeTimer:Elapsed time: 89.148 ms.
+16738
+radiussearch_gpu_octreeTimer:Elapsed time: 2.991 ms.
+data width: 14091
+kdtree radius search
+total points: 14091
+radiussearch_octreeTimer:Elapsed time: 123.186 ms.
+radiussearch_kdtreeTimer:Elapsed time: 52.337 ms.
+14090
+radiussearch_gpu_octreeTimer:Elapsed time: 1.884 ms.
+data width: 12668
+kdtree radius search
+total points: 12668
+radiussearch_octreeTimer:Elapsed time: 88.661 ms.
+radiussearch_kdtreeTimer:Elapsed time: 37.888 ms.
+12667
+radiussearch_gpu_octreeTimer:Elapsed time: 1.894 ms.
+data width: 12919
+kdtree radius search
+total points: 12919
+radiussearch_octreeTimer:Elapsed time: 97.278 ms.
+radiussearch_kdtreeTimer:Elapsed time: 42.367 ms.
+12918
+radiussearch_gpu_octreeTimer:Elapsed time: 1.708 ms.
+data width: 13182
+kdtree radius search
+total points: 13182
+radiussearch_octreeTimer:Elapsed time: 113.573 ms.
+radiussearch_kdtreeTimer:Elapsed time: 48.656 ms.
+13181
+radiussearch_gpu_octreeTimer:Elapsed time: 1.812 ms.
+data width: 13140
+kdtree radius search
+total points: 13140
+radiussearch_octreeTimer:Elapsed time: 118.61 ms.
+radiussearch_kdtreeTimer:Elapsed time: 51.179 ms.
+13139
+radiussearch_gpu_octreeTimer:Elapsed time: 2.052 ms.
+data width: 14376
+kdtree radius search
+total points: 14376
+radiussearch_octreeTimer:Elapsed time: 163.793 ms.
+radiussearch_kdtreeTimer:Elapsed time: 71.75 ms.
+14375
+radiussearch_gpu_octreeTimer:Elapsed time: 2.254 ms.
+data width: 15874
+kdtree radius search
+total points: 15874
+radiussearch_octreeTimer:Elapsed time: 229.002 ms.
+radiussearch_kdtreeTimer:Elapsed time: 104.661 ms.
+15873
+radiussearch_gpu_octreeTimer:Elapsed time: 3.088 ms.
+data width: 17204
+kdtree radius search
+total points: 17204
+radiussearch_octreeTimer:Elapsed time: 306.995 ms.
+radiussearch_kdtreeTimer:Elapsed time: 144.555 ms.
+17203
+radiussearch_gpu_octreeTimer:Elapsed time: 3.405 ms.
+data width: 19160
+kdtree radius search
+total points: 19160
+radiussearch_octreeTimer:Elapsed time: 559.164 ms.
+radiussearch_kdtreeTimer:Elapsed time: 292.591 ms.
+19159
+radiussearch_gpu_octreeTimer:Elapsed time: 5.136 ms.
+data width: 16609
+kdtree radius search
+total points: 16609
+radiussearch_octreeTimer:Elapsed time: 436.29 ms.
+radiussearch_kdtreeTimer:Elapsed time: 260.858 ms.
+16608
+radiussearch_gpu_octreeTimer:Elapsed time: 4.97 ms.
+data width: 21846
+kdtree radius search
+total points: 21846
+radiussearch_octreeTimer:Elapsed time: 524.534 ms.
+radiussearch_kdtreeTimer:Elapsed time: 253.581 ms.
+21845
+radiussearch_gpu_octreeTimer:Elapsed time: 3.985 ms.
+data width: 24732
+kdtree radius search
+total points: 24732
+radiussearch_octreeTimer:Elapsed time: 571.584 ms.
+radiussearch_kdtreeTimer:Elapsed time: 261.184 ms.
+24731
+radiussearch_gpu_octreeTimer:Elapsed time: 4.204 ms.
+data width: 25771
+kdtree radius search
+total points: 25771
+radiussearch_octreeTimer:Elapsed time: 428.621 ms.
+radiussearch_kdtreeTimer:Elapsed time: 169.779 ms.
+25770
+radiussearch_gpu_octreeTimer:Elapsed time: 3.202 ms.
+data width: 27383
+kdtree radius search
+total points: 27383
+radiussearch_octreeTimer:Elapsed time: 471.287 ms.
+radiussearch_kdtreeTimer:Elapsed time: 189.453 ms.
+27382
+radiussearch_gpu_octreeTimer:Elapsed time: 4.909 ms.
+data width: 28192
+kdtree radius search
+total points: 28192
+radiussearch_octreeTimer:Elapsed time: 531.343 ms.
+radiussearch_kdtreeTimer:Elapsed time: 200.956 ms.
+28191
+radiussearch_gpu_octreeTimer:Elapsed time: 4.556 ms.
+data width: 29460
+kdtree radius search
+total points: 29460
+radiussearch_octreeTimer:Elapsed time: 612.51 ms.
+radiussearch_kdtreeTimer:Elapsed time: 234.923 ms.
+29459
+radiussearch_gpu_octreeTimer:Elapsed time: 5.718 ms.
+data width: 28058
+kdtree radius search
+total points: 28058
+radiussearch_octreeTimer:Elapsed time: 504.606 ms.
+radiussearch_kdtreeTimer:Elapsed time: 207.467 ms.
+28057
+radiussearch_gpu_octreeTimer:Elapsed time: 4.381 ms.
+data width: 29117
+kdtree radius search
+total points: 29117
+radiussearch_octreeTimer:Elapsed time: 581.108 ms.
+radiussearch_kdtreeTimer:Elapsed time: 224.85 ms.
+29116
+radiussearch_gpu_octreeTimer:Elapsed time: 5.009 ms.
+data width: 27988
+kdtree radius search
+total points: 27988
+radiussearch_octreeTimer:Elapsed time: 498.957 ms.
+radiussearch_kdtreeTimer:Elapsed time: 196.833 ms.
+27987
+radiussearch_gpu_octreeTimer:Elapsed time: 4.157 ms.
+data width: 32206
+kdtree radius search
+total points: 32206
+radiussearch_octreeTimer:Elapsed time: 759.104 ms.
+radiussearch_kdtreeTimer:Elapsed time: 292.314 ms.
+32205
+radiussearch_gpu_octreeTimer:Elapsed time: 5.858 ms.
+data width: 27786
+kdtree radius search
+total points: 27786
+radiussearch_octreeTimer:Elapsed time: 563.752 ms.
+radiussearch_kdtreeTimer:Elapsed time: 221.002 ms.
+27785
+radiussearch_gpu_octreeTimer:Elapsed time: 4.718 ms.
+data width: 24605
+kdtree radius search
+total points: 24605
+radiussearch_octreeTimer:Elapsed time: 403.2 ms.
+radiussearch_kdtreeTimer:Elapsed time: 159.73 ms.
+24604
+radiussearch_gpu_octreeTimer:Elapsed time: 3.055 ms.
+... logging to /home/user/.ros/log/2e80e660-e03e-11ee-a873-c87f54a9fb64/roslaunch-53-0462573-01-1079527.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+]2;/home/charlie/ws_pkg_test/src/pcl_radius_search/launch/launch.launch
+[1mstarted roslaunch server http://53-0462573-01:45703/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /main/topic_name: /innovusion_no_gr...
+ * /rosdistro: melodic
+ * /rosversion: 1.14.13
+
+NODES
+  /
+    main (pcl_radius_search/main)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/charlie/ws_pkg_test/src/pcl_radius_search/launch/launch.launch http://localhost:11311
+[1mprocess[main-1]: started with pid [1079579][0m
+[main-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m

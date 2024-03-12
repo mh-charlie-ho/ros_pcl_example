@@ -1,0 +1,5 @@
+<launch>
+    <node name="main" pkg="pcl_radius_search" type="main" output="screen">
+        <param name="topic_name" value="/innovusion_no_ground" ></param>
+    </node>
+</launch>
