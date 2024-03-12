@@ -1,2 +1,2 @@
 # ros_pcl_example
-This repository is ued to store the roa pkg integrating pcl-lib and ros api.
+This repository stores the ros pkg integrating pcl-lib and ros API.
