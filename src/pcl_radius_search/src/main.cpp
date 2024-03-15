@@ -32,7 +32,6 @@ static void ConvertROSMsgToPCLPoint(
     }
 }
 
-
 void ReceivePointCloud(
     const sensor_msgs::PointCloud2ConstPtr &in_sensor_cloud)
 {
