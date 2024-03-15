@@ -42,7 +42,7 @@ void ReceivePointCloud(
     std::cout << "kdtree radius search" << std::endl;
     std::cout << "total points: " << sensor_cloud_ptr->size() << std::endl;
 
-    
+
     RadiusSearch R;
 
     R.OctreeRadiusSearch(sensor_cloud_ptr);
