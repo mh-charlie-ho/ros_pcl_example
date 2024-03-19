@@ -1,4 +1,5 @@
 #include <pcl/gpu/octree/octree.hpp>
+#include <pcl/gpu/containers/device_array.hpp>
 
 #include <iomanip> // for setw, setfill
 
@@ -8,7 +9,12 @@
 void RadiusSearch::GPUOctreeRadiusSearch(
     pcl::PointCloud<pcl::PointXYZ>::Ptr &cloud)
 {
-    int n = cloud->size();
+    int n = 200;
+    int b = int(cloud->size() / n);
+        if (cloud->size() % n != 0)
+            b++;
+
+    
     std::vector<float> radius(n, 0.5f);
     // radius.push_back(0.1f);
 
@@ -30,7 +36,7 @@ void RadiusSearch::GPUOctreeRadiusSearch(
     octree_device.build();
 
     std::vector<pcl::PointXYZ> query_host;
-    for (int i = 0; i < 1; i++)
+    for (int i = 0; i < b; i++)
     {
         for (int j = 0; j < n; j++)
         {
@@ -42,8 +48,9 @@ void RadiusSearch::GPUOctreeRadiusSearch(
             query_host[j].y = cloud->points[i * n + j].y;
             query_host[j].z = cloud->points[i * n + j].z;
 
-            if (i * n + j == (cloud->size() - 1))
-            {
+            if (i * n + j == cloud->size()/2)
+            {   
+
                 std::cout << i * n + j << std::endl;
             }
         }
@@ -52,6 +59,10 @@ void RadiusSearch::GPUOctreeRadiusSearch(
 
         const int max_answers = 20000;
         pcl::gpu::NeighborIndices result_device(queries_device.size(), max_answers);
+
+        // std::vector<int> idx = {1,2,3,4,5,6};
+        // pcl::gpu::DeviceArray<int> dArray;
+        // dArray.upload(idx);
 
         octree_device.radiusSearch(queries_device, radiuses_device, max_answers, result_device);
 
@@ -85,7 +96,7 @@ void RadiusSearch::GPUOctreeRadiusSearch(
         //     std::cerr << "Unable to open file" << std::endl;
         // }
     }
-
+    
     timeroctree.stop();
 }
 
@@ -142,7 +153,7 @@ void RadiusSearch::KdtreeRadiusSearch(
     std::vector<float> pointRadiusSquaredDistance;
 
     // std::vector<int> record_amount;
-
+    float sum = 0;
     util::Timer timerkdtree("radiussearch_kdtree");
 
     pcl::KdTreeFLANN<pcl::PointXYZ> kdtree;
@@ -159,9 +170,10 @@ void RadiusSearch::KdtreeRadiusSearch(
 
         kdtree.radiusSearch(searchPoint, radius, pointIdxRadiusSearch, pointRadiusSquaredDistance);
         // record_amount.push_back(pointIdxRadiusSearch.size());
+        sum = sum + pointIdxRadiusSearch.size();
     }
     timerkdtree.stop();
-
+    std::cout << "average included points: " << sum/cloud->size() << std::endl;
     // ==== Save data ====
     // std::ofstream outfile("cpukdtree.txt");
     // if (outfile.is_open())
