@@ -1,5 +1,5 @@
 #include <ros/ros.h>
-
+#include <pcl/filters/extract_indices.h>
 // #include <pcl_conversions/pcl_conversions.h>
 
 #include <sensor_msgs/PointCloud2.h>
@@ -8,6 +8,8 @@
 #include <string>
 
 #include "radius_search_traversal_charlie.h"
+#include "ellipsoid_clustering.cpp"
+#include "../include/util.h"
 
 static void ConvertROSMsgToPCLPoint(
     const sensor_msgs::PointCloud2ConstPtr &in_sensor_cloud,
@@ -32,24 +34,41 @@ static void ConvertROSMsgToPCLPoint(
     }
 }
 
-
 void ReceivePointCloud(
     const sensor_msgs::PointCloud2ConstPtr &in_sensor_cloud)
 {
     pcl::PointCloud<pcl::PointXYZ>::Ptr sensor_cloud_ptr(new pcl::PointCloud<pcl::PointXYZ>);
+    pcl::PointCloud<pcl::PointXYZ>::Ptr cloud_plane(new pcl::PointCloud<pcl::PointXYZ>);
     // pcl::fromROSMsg(*in_sensor_cloud, *sensor_cloud_ptr);
     ConvertROSMsgToPCLPoint(in_sensor_cloud, sensor_cloud_ptr);
 
     std::cout << "kdtree radius search" << std::endl;
     std::cout << "total points: " << sensor_cloud_ptr->size() << std::endl;
 
+    // pcl::PointIndices::Ptr inliers(new pcl::PointIndices);
+    // std::vector<int> idx = {0};
+    // inliers->indices = idx;
 
-    RadiusSearch R;
+    // pcl::ExtractIndices<pcl::PointXYZ> extract;
+    // extract.setInputCloud(sensor_cloud_ptr);
+    // extract.setIndices(inliers);
+    // extract.setNegative(false);
+    // extract.filter(*cloud_plane);
 
-    R.OctreeRadiusSearch(sensor_cloud_ptr);
-    R.KdtreeRadiusSearch(sensor_cloud_ptr);
+    // std::cout << "total points: " << cloud_plane->size() << std::endl;
 
-    R.GPUOctreeRadiusSearch(sensor_cloud_ptr);
+    // RadiusSearch R;
+
+    // R.OctreeRadiusSearch(cloud_plane);
+    // R.KdtreeRadiusSearch(cloud_plane);
+
+    // R.GPUOctreeRadiusSearch(cloud_plane);
+
+    ellipsoidalClustering ER(2.0, 2.0, 7.5);
+
+    util::Timer clock("clock");
+    ER.ellipsoidalClustering_main(sensor_cloud_ptr);
+    clock.stop();
 }
 
 /// ============================================================================

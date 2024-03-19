@@ -33,6 +33,12 @@ message(WARNING "${pcl_conversions_INCLUDE_DIRS}")
 # add_library(pcl_reader src/pcl_read_file.cpp)
 # target_link_libraries (pcl_reader ${PCL_LIBRARIES})
 
+add_library(ellipsoid_clustering src/ellipsoid_clustering.cpp)
+target_include_directories(ellipsoid_clustering PRIVATE
+  ${PCL_INCLUDE_DIRS})
+target_link_libraries (ellipsoid_clustering ${PCL_LIBRARIES})
+
+
 add_library(radius_search_traversal_charlie src/radius_search_traversal_charlie.cpp)
 target_include_directories(radius_search_traversal_charlie PRIVATE
   ${PCL_INCLUDE_DIRS})
@@ -48,6 +54,7 @@ target_link_libraries(main
   ${catkin_LIBRARIES}
   # ${pcl_conversions_LIBRARIES}
   radius_search_traversal_charlie
+  ellipsoid_clustering
   )
 
 # add_executable(mainmain src/mainmain.cpp)
