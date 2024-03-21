@@ -21,7 +21,7 @@ static void ConvertROSMsgToPCLPoint(
     float row_step = in_sensor_cloud->row_step;
     float field_size = in_sensor_cloud->fields.size();
 
-    std::cout << "data width: " << width << std::endl;
+    // std::cout << "data width: " << width << std::endl;
 
     for (int i = 0; i < width; i++)
     {
@@ -42,8 +42,8 @@ void ReceivePointCloud(
     // pcl::fromROSMsg(*in_sensor_cloud, *sensor_cloud_ptr);
     ConvertROSMsgToPCLPoint(in_sensor_cloud, sensor_cloud_ptr);
 
-    std::cout << "kdtree radius search" << std::endl;
-    std::cout << "total points: " << sensor_cloud_ptr->size() << std::endl;
+    std::cout << "PAPER: ";
+    std::cout /* << "total points: " */ << sensor_cloud_ptr->size() << ", ";
 
     // pcl::PointIndices::Ptr inliers(new pcl::PointIndices);
     // std::vector<int> idx = {0};
@@ -69,6 +69,7 @@ void ReceivePointCloud(
     util::Timer clock("clock");
     ER.ellipsoidalClustering_main(sensor_cloud_ptr);
     clock.stop();
+
 }
 
 /// ============================================================================

@@ -36,18 +36,18 @@ public:
 
     std::array<std::array<int, 2048>, 64> segment()
     {
-        std::array<std::array<int, 2048>, 64> ID_matrix; // 初始化 L_ID
+        std::array<std::array<int, 2048>, 64> ID_matrix;
         ID_matrix.fill({});
         if (!initCompute() || input_->empty() || indices_->empty())
             return ID_matrix;
 
         if (!tree_)
-            tree_.reset(new pcl::search::KdTree<pcl::PointXYZ>); // 初始化 kdtree
+            tree_.reset(new pcl::search::KdTree<pcl::PointXYZ>);
 
-        tree_->setInputCloud(input_, indices_); // 輸入點
+        tree_->setInputCloud(input_, indices_);
 
-        std::vector<int> L_ID(input_->size(), -1);               // Build L_ID
-        std::vector<bool> extended_flags(input_->size(), false); // Build Extended_Flag
+        std::vector<int> L_ID(input_->size(), -1);
+        std::vector<bool> extended_flags(input_->size(), false);
 
         std::vector<int> nn_indices;
         std::vector<float> nn_distances;
@@ -60,25 +60,23 @@ public:
         float item_c = tan(phi_ * M_PI / 180.0f / 2.0);
         float a = rho_ / 2.0;
 
-        for (auto i_p : *indices_) // 第二行
+        for (auto i_p : *indices_)
         {
-            // if (i_p == (int)(indices_->size() / 3) || i_p == (int)(indices_->size() *2 / 3))
+            // if (i_p == indices_->size() - 1)
             // {
-            //     sleep(0.001);
-            //     cout << i_p << endl;
+            //     cout << "pass" << endl;
             // }
-
-            if (extended_flags.at(i_p)) // 第三行
+            if (extended_flags.at(i_p))
                 continue;
 
-            boost::add_edge(ID, ID, G); // 第六行
+            boost::add_edge(ID, ID, G);
 
-            L_Q.push(i_p);       // 第五行
-            while (!L_Q.empty()) // #7
+            L_Q.push(i_p);
+            while (!L_Q.empty())
             {
-                auto i_q = L_Q.front();     // #8
-                L_Q.pop();                  // #8
-                if (extended_flags.at(i_q)) // #9
+                auto i_q = L_Q.front();
+                L_Q.pop();
+                if (extended_flags.at(i_q))
                     continue;
 
                 float m = input_->points[i_q].x;
@@ -98,9 +96,9 @@ public:
                 min_axis = min_axis < c ? min_axis : c;
 
                 // Find the points that MIGHT be in the ellipsoidal neighbor
-                tree_->radiusSearch(i_q, max_axis, nn_indices, nn_distances); // #12
+                tree_->radiusSearch(i_q, max_axis, nn_indices, nn_distances);
 
-                for (std::size_t i = 0; i < nn_indices.size(); ++i) // #13
+                for (std::size_t i = 0; i < nn_indices.size(); ++i)
                 {
                     auto i_n = nn_indices.at(i);
                     auto q_label = L_ID.at(i_n);
@@ -114,17 +112,17 @@ public:
                     double item3 = pow(((z - v) / c), 2);
 
                     // Find the points that ARE in the ellipsoidal neighbor
-                    if (item1 + item2 + item3 > 1.0) // #14
+                    if (item1 + item2 + item3 > 1.0)
                         continue;
 
                     // Mark the IDs of neighboring instances
-                    if (q_label != -1 && q_label != ID) // #16
+                    if (q_label != -1 && q_label != ID)
                         boost::add_edge(ID, q_label, G);
 
-                    if (extended_flags.at(i_n)) // #18
+                    if (extended_flags.at(i_n))
                         continue;
 
-                    L_ID.at(i_n) = ID; // #20  就算他有類別 也會被改掉
+                    L_ID.at(i_n) = ID;
 
                     // Stop finding the neighboring points of close points
                     if (nn_distances.at(i) <= min_axis)
@@ -140,18 +138,20 @@ public:
         }
 
         // Remap instance ID by looking up the graph
-        std::vector<int> ID_mapper(boost::num_vertices(G)); // num_vertices 計算圖中有多少頂點 這也代表有多少點被重複分類
+        std::vector<int> ID_mapper(boost::num_vertices(G)); // num_vertices 計算圖中有多少頂點 這也代表有多少類別(cluster了幾類)
+        // cout << ID_mapper.size() << endl;
 
-        auto num_components = boost::connected_components(G, ID_mapper.data()); // ID_mapper 用來儲存每個頂點屬於哪個連通分量
+        auto num_components = boost::connected_components(G, ID_mapper.data()); // ID_mapper 用來儲存每個頂點屬於哪個連通分量（相連算同個區塊）
+        // cout << num_components << endl;                                         // 重疊的算一類，總共有幾類
 
         for (auto index : *indices_) // 所有的點索引
         {
             auto ID = L_ID.at(index);            // 該點的類別
             auto remapped_ID = ID_mapper.at(ID); // 該ID屬於哪個連通分量
 
-            int row = int(index % 2048);
-            int column = int(index / 2048);
-            ID_matrix[column][row] = remapped_ID + 1;
+            int column = int(index % 2048);
+            int row = int(index / 2048);
+            ID_matrix[row][column] = remapped_ID + 1;  // 2048個點一列 這應該是要配合輸入的點的格式
         }
 
         deinitCompute();

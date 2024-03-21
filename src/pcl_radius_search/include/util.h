@@ -30,7 +30,7 @@ namespace util
             auto duration = end - start;
             double ms = duration * 0.001;
 
-            std::cout << data_source << "Timer:Elapsed time: " << ms << " ms." << std::endl;
+            std::cout << /* data_source << "Timer:Elapsed time: " << */ ms /* << " ms." */ << std::endl;
         }
 
     private:
